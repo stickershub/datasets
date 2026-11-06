@@ -1,0 +1,4831 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T02:56:22.827Z",
+  "id": "pepe",
+  "slug": "pepe",
+  "name": "Pepe",
+  "tagline": "The frog that says it all.",
+  "description": "Pepes, Apus, Peepos, Pepegas and Pepeges for every reaction — static and animated.",
+  "source": {
+    "name": "Pepe Emojis for Reddit",
+    "repo": "https://github.com/pepecoinppc/pepe_emojis_for_reddit",
+    "commit": "f59ebdbc5706fd80c82d6cf5f069405d45f231c8",
+    "attribution": "Pepe Emojis for Reddit by Pepecoin.com",
+    "license": "No license file in the upstream repository."
+  },
+  "stats": {
+    "total": 202,
+    "static": 120,
+    "gif": 96,
+    "both": 14,
+    "files": 216
+  },
+  "categories": [
+    {
+      "order": 1,
+      "id": "pepe",
+      "name": "Pepe",
+      "static": 55,
+      "gif": 40,
+      "count": 87
+    },
+    {
+      "order": 2,
+      "id": "apu",
+      "name": "Apu",
+      "static": 12,
+      "gif": 9,
+      "count": 21
+    },
+    {
+      "order": 3,
+      "id": "peepo",
+      "name": "Peepo",
+      "static": 30,
+      "gif": 27,
+      "count": 53
+    },
+    {
+      "order": 4,
+      "id": "pepega",
+      "name": "Pepega",
+      "static": 1,
+      "gif": 2,
+      "count": 3
+    },
+    {
+      "order": 5,
+      "id": "pepege",
+      "name": "Pepege",
+      "static": 22,
+      "gif": 18,
+      "count": 38
+    }
+  ],
+  "stickers": [
+    {
+      "id": "apu-chess",
+      "slug": "apu-chess",
+      "name": "Apu Chess",
+      "category": "apu",
+      "aliases": [
+        "Chess"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-chess.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 45782,
+          "sha256": "94bd033071a0a2a316cc83e091076b4ba92672bdf6946b94ff747ab0c993f82a",
+          "sourcePath": "emojis/gif/2 apu/apu chess.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20chess.gif",
+          "frames": 17,
+          "poster": "posters/apu-chess.webp",
+          "posterBytes": 1514,
+          "posterSha256": "8f28deedbac026c9c6d0d3a4aec827dd1e0859a2fe19f5501859102827694828",
+          "posterFrame": 0,
+          "posterCoverage": 83.4
+        }
+      }
+    },
+    {
+      "id": "apu-comfy",
+      "slug": "apu-comfy",
+      "name": "Apu Comfy",
+      "category": "apu",
+      "aliases": [
+        "Comfy"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-comfy.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8566,
+          "sha256": "39cde2cf931a0aa47ac60063bb8e4a42d29afc375193c30b3fc3fc1194c47541",
+          "sourcePath": "emojis/static/2 apu/apu comfy.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20comfy.png"
+        }
+      }
+    },
+    {
+      "id": "apu-dance",
+      "slug": "apu-dance",
+      "name": "Apu Dance",
+      "category": "apu",
+      "aliases": [
+        "Dance"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-dance.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 17213,
+          "sha256": "72fcb6c6a9258b7999d42433feb8d6b023ae728408c1af0dc840d3330c2872aa",
+          "sourcePath": "emojis/gif/2 apu/apu dance.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20dance.gif",
+          "frames": 10,
+          "poster": "posters/apu-dance.webp",
+          "posterBytes": 914,
+          "posterSha256": "ef4f1c7de45af485f43e5c159d9e7c97b3751f1f8ed8b8028cdfa11a128c0782",
+          "posterFrame": 0,
+          "posterCoverage": 36.1
+        }
+      }
+    },
+    {
+      "id": "apu-dance-pajamas",
+      "slug": "apu-dance-pajamas",
+      "name": "Apu Dance Pajamas",
+      "category": "apu",
+      "aliases": [
+        "Dance Pajamas"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-dance-pajamas.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 16497,
+          "sha256": "8fd5691fbf9a1f6b4a76dab35c70c53fd3b36c72dc7a339495ee3be6033121db",
+          "sourcePath": "emojis/gif/2 apu/apu dance pajamas.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20dance%20pajamas.gif",
+          "frames": 7,
+          "poster": "posters/apu-dance-pajamas.webp",
+          "posterBytes": 1202,
+          "posterSha256": "1a453e41eeb5a711a2f7bf5f76c0f653d4be1fb1ab24c47f33485cc764835aaa",
+          "posterFrame": 0,
+          "posterCoverage": 46.4
+        }
+      }
+    },
+    {
+      "id": "apu-dent",
+      "slug": "apu-dent",
+      "name": "Apu Dent",
+      "category": "apu",
+      "aliases": [
+        "Dent"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-dent.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8400,
+          "sha256": "0f5056fe762e6c7438c0332bf8a7827bb49313870292702e99d23f9f1809818f",
+          "sourcePath": "emojis/static/2 apu/apu dent.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20dent.png"
+        }
+      }
+    },
+    {
+      "id": "apu-disgust",
+      "slug": "apu-disgust",
+      "name": "Apu Disgust",
+      "category": "apu",
+      "aliases": [
+        "Disgust"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-disgust.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7054,
+          "sha256": "a6cfb142aa5f26529a43a5eb6bcd7088d88ef8bf0f3a2994aa06281f26a3b33d",
+          "sourcePath": "emojis/static/2 apu/apu disgust.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20disgust.png"
+        }
+      }
+    },
+    {
+      "id": "apu-drool",
+      "slug": "apu-drool",
+      "name": "Apu Drool",
+      "category": "apu",
+      "aliases": [
+        "Drool"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-drool.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6571,
+          "sha256": "7a9a1e72a933ddf39917d093d0b5c9962d60cc291b15f768c22f26459268bde9",
+          "sourcePath": "emojis/static/2 apu/apu drool.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20drool.png"
+        }
+      }
+    },
+    {
+      "id": "apu-drums",
+      "slug": "apu-drums",
+      "name": "Apu Drums",
+      "category": "apu",
+      "aliases": [
+        "Drums"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-drums.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 5069,
+          "sha256": "173850c6d8aa2cb12e6a4994c51bb1c78061f228fe6b3b4d6e0622477dd6f45b",
+          "sourcePath": "emojis/gif/2 apu/apu drums.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20drums.gif",
+          "frames": 2,
+          "poster": "posters/apu-drums.webp",
+          "posterBytes": 1486,
+          "posterSha256": "d74b5c77054c708ab047cd7f9dc7e9a725cfc5b639aae924f4b07145e82099fc",
+          "posterFrame": 0,
+          "posterCoverage": 63.6
+        }
+      }
+    },
+    {
+      "id": "apu-fishing",
+      "slug": "apu-fishing",
+      "name": "Apu Fishing",
+      "category": "apu",
+      "aliases": [
+        "Fishing"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-fishing.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 4672,
+          "sha256": "b7e29439bb8a382e5af547553713c0b3b42f4801c6061cb289cb3fae645ce95e",
+          "sourcePath": "emojis/static/2 apu/apu fishing.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20fishing.png"
+        }
+      }
+    },
+    {
+      "id": "apu-gamer",
+      "slug": "apu-gamer",
+      "name": "Apu Gamer",
+      "category": "apu",
+      "aliases": [
+        "Gamer"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-gamer.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9158,
+          "sha256": "a8b643127d23ff72729dae9fc40b62c6ac6cd70148b5fb8f64d1aa94985d277a",
+          "sourcePath": "emojis/static/2 apu/apu gamer.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20gamer.png"
+        }
+      }
+    },
+    {
+      "id": "apu-look",
+      "slug": "apu-look",
+      "name": "Apu Look",
+      "category": "apu",
+      "aliases": [
+        "Look"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-look.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9843,
+          "sha256": "b6e1f9490266ef222ace6c5735e179e0dba51cbd1429f919f5b00c341ed665d3",
+          "sourcePath": "emojis/static/2 apu/apu look.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20look.png"
+        }
+      }
+    },
+    {
+      "id": "apu-mexican",
+      "slug": "apu-mexican",
+      "name": "Apu Mexican",
+      "category": "apu",
+      "aliases": [
+        "Mexican"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-mexican.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 5488,
+          "sha256": "c26c70d03105fe25fce541d114ae8abc00486426ab288d55558e9ddf5733e35d",
+          "sourcePath": "emojis/gif/2 apu/apu mexican.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20mexican.gif",
+          "frames": 2,
+          "poster": "posters/apu-mexican.webp",
+          "posterBytes": 1494,
+          "posterSha256": "8120eeb74ef0abcc00c0db2428ef3760b309cd0d8522b4ff02ef50088b804c1d",
+          "posterFrame": 0,
+          "posterCoverage": 56.3
+        }
+      }
+    },
+    {
+      "id": "apu-piano",
+      "slug": "apu-piano",
+      "name": "Apu Piano",
+      "category": "apu",
+      "aliases": [
+        "Piano"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-piano.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 4860,
+          "sha256": "7008db214a7dc1ba7d6b3badc8513e4951ed27d4cd0cfce3922883c916cbc98e",
+          "sourcePath": "emojis/gif/2 apu/apu piano.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20piano.gif",
+          "frames": 2,
+          "poster": "posters/apu-piano.webp",
+          "posterBytes": 1278,
+          "posterSha256": "43b3d80e40d0939a366e8aa8f7aa22066b34e306b3bbf1308f6f0922dad97c05",
+          "posterFrame": 0,
+          "posterCoverage": 51.1
+        }
+      }
+    },
+    {
+      "id": "apu-pog-champ",
+      "slug": "apu-pog-champ",
+      "name": "Apu POG Champ",
+      "category": "apu",
+      "aliases": [
+        "POG Champ"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-pog-champ.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6932,
+          "sha256": "e0d49d75e697bb1b9e6758f5ac9eb80bcc4480d47927c8a9ad8f1d9da1563ac2",
+          "sourcePath": "emojis/static/2 apu/apu pog champ.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20pog%20champ.png"
+        }
+      }
+    },
+    {
+      "id": "apu-sad-cry",
+      "slug": "apu-sad-cry",
+      "name": "Apu Sad Cry",
+      "category": "apu",
+      "aliases": [
+        "Sad Cry"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-sad-cry.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6342,
+          "sha256": "91c69e872c16248803beab3828abe9a7319825d9f83affdc3c97895b286cecd2",
+          "sourcePath": "emojis/static/2 apu/apu sad cry.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20sad%20cry.png"
+        }
+      }
+    },
+    {
+      "id": "apu-sing",
+      "slug": "apu-sing",
+      "name": "Apu Sing",
+      "category": "apu",
+      "aliases": [
+        "Sing"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-sing.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 4441,
+          "sha256": "13687dcd9d7654621a4989477bfba4a9c4ab4b268c78144494f85c18e96aa190",
+          "sourcePath": "emojis/gif/2 apu/apu sing.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20sing.gif",
+          "frames": 2,
+          "poster": "posters/apu-sing.webp",
+          "posterBytes": 1072,
+          "posterSha256": "4390c69ad87cf3a3d3ac252ea6bdff70e13b4ff71a84545485b044654425659c",
+          "posterFrame": 0,
+          "posterCoverage": 50.1
+        }
+      }
+    },
+    {
+      "id": "apu-smart",
+      "slug": "apu-smart",
+      "name": "Apu Smart",
+      "category": "apu",
+      "aliases": [
+        "Smart"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-smart.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7761,
+          "sha256": "26d9f802853742c1ea848a027e347d22722edcbce2c4fd58bd98d04f62046823",
+          "sourcePath": "emojis/static/2 apu/apu smart.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20smart.png"
+        }
+      }
+    },
+    {
+      "id": "apu-smug",
+      "slug": "apu-smug",
+      "name": "Apu Smug",
+      "category": "apu",
+      "aliases": [
+        "Smug"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-smug.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9532,
+          "sha256": "1af28a5a6b4032ef6652c1f5be2db6da2f3fd48ec5eddad0d96a99a171bc5902",
+          "sourcePath": "emojis/static/2 apu/apu smug.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20smug.png"
+        }
+      }
+    },
+    {
+      "id": "apu-spell-book",
+      "slug": "apu-spell-book",
+      "name": "Apu Spell Book",
+      "category": "apu",
+      "aliases": [
+        "Spell Book"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-spell-book.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 12978,
+          "sha256": "b6aaa107dca8791ba58b6e3406b73d0e2b729247c2e46d6ba4c37ce5d3db6fb2",
+          "sourcePath": "emojis/gif/2 apu/apu spell book.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20spell%20book.gif",
+          "frames": 18,
+          "poster": "posters/apu-spell-book.webp",
+          "posterBytes": 1764,
+          "posterSha256": "22de241bfafbc9046f12929d31654e227357ea0ce44503f9312121d6a9b2da75",
+          "posterFrame": 0,
+          "posterCoverage": 91.1
+        }
+      }
+    },
+    {
+      "id": "apu-trumpet",
+      "slug": "apu-trumpet",
+      "name": "Apu Trumpet",
+      "category": "apu",
+      "aliases": [
+        "Trumpet"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/apu-trumpet.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 4478,
+          "sha256": "b8616bda11254c62d0f0eb513478d7be33ace9c510039f3a142b709275452b66",
+          "sourcePath": "emojis/gif/2 apu/apu trumpet.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/2%20apu/apu%20trumpet.gif",
+          "frames": 2,
+          "poster": "posters/apu-trumpet.webp",
+          "posterBytes": 1030,
+          "posterSha256": "dfcb426c1546899c54f579ec397848b8ba61a11246472b556b0b9fd8c1493e09",
+          "posterFrame": 0,
+          "posterCoverage": 43.7
+        }
+      }
+    },
+    {
+      "id": "apu-yell",
+      "slug": "apu-yell",
+      "name": "Apu Yell",
+      "category": "apu",
+      "aliases": [
+        "Yell"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/apu-yell.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 11349,
+          "sha256": "39339816845157a5aa6b4c8cfe84ab085a6a15eeb83c4a181c636bce06709a5e",
+          "sourcePath": "emojis/static/2 apu/apu yell.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/2%20apu/apu%20yell.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-8-bit",
+      "slug": "peepo-8-bit",
+      "name": "Peepo 8-Bit",
+      "category": "peepo",
+      "aliases": [
+        "8 Bit"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-8-bit.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 2145,
+          "sha256": "0c0d03cec54f99d9779b4b5a2fb293ad2420e8377ff21d74962aaad311be6423",
+          "sourcePath": "emojis/static/3 peepo/peepo 8 bit.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%208%20bit.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-angery-sip",
+      "slug": "peepo-angery-sip",
+      "name": "Peepo Angery Sip",
+      "category": "peepo",
+      "aliases": [
+        "Angery Sip"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-angery-sip.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6457,
+          "sha256": "712b1cdcba10676351c736afff5025d0fbcac95004c2b251c0b87ce1d7445337",
+          "sourcePath": "emojis/static/3 peepo/peepo angery sip.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20angery%20sip.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-anime-caught",
+      "slug": "peepo-anime-caught",
+      "name": "Peepo Anime Caught",
+      "category": "peepo",
+      "aliases": [
+        "Anime Caught"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-anime-caught.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 21982,
+          "sha256": "0272921cd097566a3b57d1dd144afabe4a0a35b3f674cac26425bb384c8e291e",
+          "sourcePath": "emojis/gif/3 peepo/peepo anime caught.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20anime%20caught.gif",
+          "frames": 22,
+          "poster": "posters/peepo-anime-caught.webp",
+          "posterBytes": 980,
+          "posterSha256": "6709569bb1c23c34ce4bed45c7039798260a1934744c79143e5fb5e8217f0d79",
+          "posterFrame": 0,
+          "posterCoverage": 68.2
+        }
+      }
+    },
+    {
+      "id": "peepo-arrive",
+      "slug": "peepo-arrive",
+      "name": "Peepo Arrive",
+      "category": "peepo",
+      "aliases": [
+        "Arrive"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-arrive.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 50006,
+          "sha256": "742c64e412255ccb531f707007ef9e48d8335d73d28f7021bcabbbefeddccd50",
+          "sourcePath": "emojis/gif/3 peepo/peepo arrive.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20arrive.gif",
+          "frames": 28,
+          "poster": "posters/peepo-arrive.webp",
+          "posterBytes": 1078,
+          "posterSha256": "7fd00cac97fde2650731f5917af8d8cef6f0f76fa633e8edb549c91d200da7d4",
+          "posterFrame": 23,
+          "posterCoverage": 55
+        }
+      }
+    },
+    {
+      "id": "peepo-banger",
+      "slug": "peepo-banger",
+      "name": "Peepo Banger",
+      "category": "peepo",
+      "aliases": [
+        "Banger"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-banger.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 21543,
+          "sha256": "0cbf82fe2a486de9e53e28c772eb66b23f0091697d3e317dedf42ea923254d87",
+          "sourcePath": "emojis/gif/3 peepo/peepo banger.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20banger.gif",
+          "frames": 8,
+          "poster": "posters/peepo-banger.webp",
+          "posterBytes": 1284,
+          "posterSha256": "b910f5375630ae82d40dcdbd9d852be4a8cc1ae449d84e947a2a9b2bd6670536",
+          "posterFrame": 0,
+          "posterCoverage": 69.9
+        }
+      }
+    },
+    {
+      "id": "peepo-blush",
+      "slug": "peepo-blush",
+      "name": "Peepo Blush",
+      "category": "peepo",
+      "aliases": [
+        "Blush"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-blush.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6874,
+          "sha256": "107a90909f77fda3fc2c425f7de48b19ea2ee7ed10bdeb8236d890a3c486c9d3",
+          "sourcePath": "emojis/static/3 peepo/peepo blush.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20blush.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-bow-cute",
+      "slug": "peepo-bow-cute",
+      "name": "Peepo Bow Cute",
+      "category": "peepo",
+      "aliases": [
+        "Bow Cute"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-bow-cute.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8511,
+          "sha256": "dbe18ea936ad9191e3d82db8264b69c76721ff2942ecf12b6a48105544b018b1",
+          "sourcePath": "emojis/static/3 peepo/peepo bow cute.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20bow%20cute.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-chat",
+      "slug": "peepo-chat",
+      "name": "Peepo Chat",
+      "category": "peepo",
+      "aliases": [
+        "Chat"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-chat.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 5856,
+          "sha256": "ad4f5575069907bdb1ea2827eec611b0af30eba0365e8bce3cce601fd34775d2",
+          "sourcePath": "emojis/gif/3 peepo/peepo chat.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20chat.gif",
+          "frames": 2,
+          "poster": "posters/peepo-chat.webp",
+          "posterBytes": 1442,
+          "posterSha256": "5a113bc46224744c122c889ba4b932fb85e9fca95673520347095847f9f36563",
+          "posterFrame": 0,
+          "posterCoverage": 50.8
+        }
+      }
+    },
+    {
+      "id": "peepo-cheer",
+      "slug": "peepo-cheer",
+      "name": "Peepo Cheer",
+      "category": "peepo",
+      "aliases": [
+        "Cheer"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-cheer.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 127294,
+          "sha256": "94ee081d19cd86a32e4005dcd535b0673e2db2f8e298bd11a586d405f05f61c6",
+          "sourcePath": "emojis/gif/3 peepo/peepo cheer.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20cheer.gif",
+          "frames": 60,
+          "poster": "posters/peepo-cheer.webp",
+          "posterBytes": 714,
+          "posterSha256": "f56a9d57463684ca0ac5b20f2a21b230dafeb776de09d7296fdbc7335a4a0ac5",
+          "posterFrame": 0,
+          "posterCoverage": 26.3
+        }
+      }
+    },
+    {
+      "id": "peepo-clap",
+      "slug": "peepo-clap",
+      "name": "Peepo Clap",
+      "category": "peepo",
+      "aliases": [
+        "Clap"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-clap.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 4452,
+          "sha256": "1e8599fa72a3c686a0b6c6184a5a27803ca18ab7a549df244890152ff21a82ce",
+          "sourcePath": "emojis/gif/3 peepo/peepo clap.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20clap.gif",
+          "frames": 2,
+          "poster": "posters/peepo-clap.webp",
+          "posterBytes": 1524,
+          "posterSha256": "e68ebb29633d214ebc7c4bbcc2465a7e4df24ed12181cfc170e3aa308e2ef5cf",
+          "posterFrame": 0,
+          "posterCoverage": 69.7
+        }
+      }
+    },
+    {
+      "id": "peepo-coffee",
+      "slug": "peepo-coffee",
+      "name": "Peepo Coffee",
+      "category": "peepo",
+      "aliases": [
+        "Coffee"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-coffee.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8081,
+          "sha256": "e6d0a1fde01ec59dda7d6fe1f573eadc896823c97fddccede89564be4f617064",
+          "sourcePath": "emojis/static/3 peepo/peepo Coffee.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20Coffee.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-cool",
+      "slug": "peepo-cool",
+      "name": "Peepo Cool",
+      "category": "peepo",
+      "aliases": [
+        "Cool"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-cool.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6246,
+          "sha256": "3bfed57fda785295acc44fcac8cb13b369fa2814651e6f8f206c3137d8c5929c",
+          "sourcePath": "emojis/static/3 peepo/peepo cool.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20cool.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-couple",
+      "slug": "peepo-couple",
+      "name": "Peepo Couple",
+      "category": "peepo",
+      "aliases": [
+        "Couple"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-couple.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7631,
+          "sha256": "da3869f46312c54eab404c4f3579dc2bd09a77616fdd02e68f84304495709d74",
+          "sourcePath": "emojis/static/3 peepo/peepo couple.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20couple.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-cringe",
+      "slug": "peepo-cringe",
+      "name": "Peepo Cringe",
+      "category": "peepo",
+      "aliases": [
+        "Cringe"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-cringe.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6883,
+          "sha256": "b874dade6366bea5d57813a2fb3c42a56092af5ca2cbbe592135fb4ddcf713cc",
+          "sourcePath": "emojis/static/3 peepo/peepo cringe.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20cringe.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-cry",
+      "slug": "peepo-cry",
+      "name": "Peepo Cry",
+      "category": "peepo",
+      "aliases": [
+        "Cry"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-cry.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9980,
+          "sha256": "dbac46eabeab02d0d79870f4b6e19be0553cc38da68ee4d3c934343910653f15",
+          "sourcePath": "emojis/static/3 peepo/peepo cry.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20cry.png"
+        },
+        "gif": {
+          "src": "gif/peepo-cry.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 13408,
+          "sha256": "0cdc80f44e0c5da630332dfb1e32563b0956fd1b4f5d570785716a12b1859c85",
+          "sourcePath": "emojis/gif/3 peepo/peepo cry.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20cry.gif",
+          "frames": 92,
+          "poster": "posters/peepo-cry.webp",
+          "posterBytes": 988,
+          "posterSha256": "c57e1dba4544eb528bb112af1dfd62b26b8232e712a4744e400cc7539300b2c9",
+          "posterFrame": 0,
+          "posterCoverage": 52.5
+        }
+      }
+    },
+    {
+      "id": "peepo-cry-laptop",
+      "slug": "peepo-cry-laptop",
+      "name": "Peepo Cry Laptop",
+      "category": "peepo",
+      "aliases": [
+        "Cry Laptop"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-cry-laptop.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 21658,
+          "sha256": "947d5e1262254348b5c1480847bfed71791e3c52761519ef667c69155553eb0e",
+          "sourcePath": "emojis/gif/3 peepo/peepo cry laptop.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20cry%20laptop.gif",
+          "frames": 40,
+          "poster": "posters/peepo-cry-laptop.webp",
+          "posterBytes": 1214,
+          "posterSha256": "a01a0ce310d981e493cb3dee0e0ced1ea83b297850a53ed9a6f3d5aa2a1da7fe",
+          "posterFrame": 0,
+          "posterCoverage": 48.9
+        }
+      }
+    },
+    {
+      "id": "peepo-cute",
+      "slug": "peepo-cute",
+      "name": "Peepo Cute",
+      "category": "peepo",
+      "aliases": [
+        "Cute"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-cute.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6544,
+          "sha256": "94478367bcc9000b25e559d4d4475665e3cb743fb0f6e6b6f97207e78d226284",
+          "sourcePath": "emojis/static/3 peepo/peepo cute.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20cute.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-diamond-sword",
+      "slug": "peepo-diamond-sword",
+      "name": "Peepo Diamond Sword",
+      "category": "peepo",
+      "aliases": [
+        "Diamond Sword"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-diamond-sword.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8110,
+          "sha256": "5d388c52b596ee7ccf2c44447ff94e76a9403eb3b3d91ae7f32f8caf95c5ac08",
+          "sourcePath": "emojis/static/3 peepo/peepo diamond sword.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20diamond%20sword.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-dj",
+      "slug": "peepo-dj",
+      "name": "Peepo Dj",
+      "category": "peepo",
+      "aliases": [
+        "Dj"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-dj.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 139223,
+          "sha256": "3b175a2515f4a399f934824998d787740b12c4488b4b79b58aed845debceb259",
+          "sourcePath": "emojis/gif/3 peepo/peepo dj.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20dj.gif",
+          "frames": 61,
+          "poster": "posters/peepo-dj.webp",
+          "posterBytes": 1050,
+          "posterSha256": "7e4fea95758c4ceadd85866692cc468ed0a7593d2372359261488785017fd4d4",
+          "posterFrame": 0,
+          "posterCoverage": 43.5
+        }
+      }
+    },
+    {
+      "id": "peepo-enchanted-diamond-sword",
+      "slug": "peepo-enchanted-diamond-sword",
+      "name": "Peepo Enchanted Diamond Sword",
+      "category": "peepo",
+      "aliases": [
+        "Enchanted Diamond Sword"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-enchanted-diamond-sword.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 27028,
+          "sha256": "3a5e8bbc0789522e39f90c2a4ac70a64c836c92a9f96f35f3c34f84d8dd1da2a",
+          "sourcePath": "emojis/gif/3 peepo/peepo enchanted diamond sword.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20enchanted%20diamond%20sword.gif",
+          "frames": 26,
+          "poster": "posters/peepo-enchanted-diamond-sword.webp",
+          "posterBytes": 1704,
+          "posterSha256": "0426648058dbcedd8dcbf5a1987382337aab7f49777248fb80282577d9561990",
+          "posterFrame": 0,
+          "posterCoverage": 68.9
+        }
+      }
+    },
+    {
+      "id": "peepo-fight",
+      "slug": "peepo-fight",
+      "name": "Peepo Fight",
+      "category": "peepo",
+      "aliases": [
+        "Fight"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-fight.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 13042,
+          "sha256": "5b5b9b96b9e528cea2c2dc25ebf600add925b85e1d28b65ba81a7df6ae5b479a",
+          "sourcePath": "emojis/gif/3 peepo/peepo fight.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20fight.gif",
+          "frames": 8,
+          "poster": "posters/peepo-fight.webp",
+          "posterBytes": 1210,
+          "posterSha256": "739ad251a1a348a27ce3dccf7bf5b1b5e5e2edb2eba0aeb9b0608e3682678efb",
+          "posterFrame": 0,
+          "posterCoverage": 48.4
+        }
+      }
+    },
+    {
+      "id": "peepo-flushed",
+      "slug": "peepo-flushed",
+      "name": "Peepo Flushed",
+      "category": "peepo",
+      "aliases": [
+        "Flushed"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-flushed.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5726,
+          "sha256": "ce5b111910c851a9e0a6ae798a789eebed3fae535a6a70895c9e82473a30bfb4",
+          "sourcePath": "emojis/static/3 peepo/peepo flushed.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20flushed.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-goose-ride",
+      "slug": "peepo-goose-ride",
+      "name": "Peepo Goose Ride",
+      "category": "peepo",
+      "aliases": [
+        "Goose Ride"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-goose-ride.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 17972,
+          "sha256": "693bc0a1ac241baf408a353c1265c0323163615a6baaaa136f722266ab9bcf5d",
+          "sourcePath": "emojis/gif/3 peepo/peepo goose ride.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20goose%20ride.gif",
+          "frames": 15,
+          "poster": "posters/peepo-goose-ride.webp",
+          "posterBytes": 1050,
+          "posterSha256": "8a0de01270e2d65cdb9b33f8a783bcef92c6e5966148cb3724b54ff1630843c0",
+          "posterFrame": 0,
+          "posterCoverage": 35.4
+        }
+      }
+    },
+    {
+      "id": "peepo-hands",
+      "slug": "peepo-hands",
+      "name": "Peepo Hands",
+      "category": "peepo",
+      "aliases": [
+        "Hands"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-hands.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6329,
+          "sha256": "3c56df24368881c6f5d85acae86b161e6e409fb923deb641f776394c241c7eec",
+          "sourcePath": "emojis/static/3 peepo/peepo hands.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20hands.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-happy",
+      "slug": "peepo-happy",
+      "name": "Peepo Happy",
+      "category": "peepo",
+      "aliases": [
+        "Happy"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-happy.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6803,
+          "sha256": "82a89adb7d65b1d057b3fee3e282d7e2ebbd38a1e9263ff345038e083648d676",
+          "sourcePath": "emojis/static/3 peepo/peepo happy.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20happy.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-heart",
+      "slug": "peepo-heart",
+      "name": "Peepo Heart",
+      "category": "peepo",
+      "aliases": [
+        "Heart"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-heart.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8436,
+          "sha256": "c0d24ded80f431eb887c920c3a99c396748db144f84b7f4ad1e7391a7bf736d6",
+          "sourcePath": "emojis/static/3 peepo/peepo heart.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20heart.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-heart-2",
+      "slug": "peepo-heart-2",
+      "name": "Peepo Heart 2",
+      "category": "peepo",
+      "aliases": [
+        "Heart 2"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-heart-2.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8240,
+          "sha256": "33325188bd42026b30361beaa4fcdb3319faf2e799366b4e11373983a05341eb",
+          "sourcePath": "emojis/static/3 peepo/peepo heart 2.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20heart%202.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-hug",
+      "slug": "peepo-hug",
+      "name": "Peepo Hug",
+      "category": "peepo",
+      "aliases": [
+        "Hug"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-hug.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7078,
+          "sha256": "2141a47df3dc068d069a7c2f7cadb798998f2c89792e52b875fc219580ae683e",
+          "sourcePath": "emojis/static/3 peepo/peepo hug.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20hug.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-hyped",
+      "slug": "peepo-hyped",
+      "name": "Peepo Hyped",
+      "category": "peepo",
+      "aliases": [
+        "Hyped"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-hyped.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9324,
+          "sha256": "8c4adca64ba586006ca810b04baea32c3b371038dd3986ee650a316a66071ad1",
+          "sourcePath": "emojis/static/3 peepo/peepo hyped.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20hyped.png"
+        },
+        "gif": {
+          "src": "gif/peepo-hyped.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 11701,
+          "sha256": "391019a3ce1afe1c9c3d69ffd5e7f41c13f93fe10ae0a492e8b0546ed3facb1f",
+          "sourcePath": "emojis/gif/3 peepo/peepo hyped.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20hyped.gif",
+          "frames": 4,
+          "poster": "posters/peepo-hyped.webp",
+          "posterBytes": 1768,
+          "posterSha256": "0f3eaffa56aa349712fe4ab3414a330907699ce1d2f3d6f98df303a6ccfc8351",
+          "posterFrame": 0,
+          "posterCoverage": 75.7
+        }
+      }
+    },
+    {
+      "id": "peepo-hypers",
+      "slug": "peepo-hypers",
+      "name": "Peepo Hypers",
+      "category": "peepo",
+      "aliases": [
+        "Hypers"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-hypers.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8992,
+          "sha256": "47ea916591a9a3f530e8cfc3fc936383e79527e595edf8f4ca08a5ed34ec3ece",
+          "sourcePath": "emojis/static/3 peepo/peepo hypers.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20hypers.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-i-love-you",
+      "slug": "peepo-i-love-you",
+      "name": "Peepo I Love You",
+      "category": "peepo",
+      "aliases": [
+        "I Love You"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-i-love-you.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9626,
+          "sha256": "90961112f603d722b9709f930f9b6bcd32273d9a15648d743d50a00cf720ef7c",
+          "sourcePath": "emojis/static/3 peepo/peepo i love you.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20i%20love%20you.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-jam",
+      "slug": "peepo-jam",
+      "name": "Peepo Jam",
+      "category": "peepo",
+      "aliases": [
+        "Jam"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-jam.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 7349,
+          "sha256": "6f78384dad7890f0ac0dd9ba129742da00f6fcdb881e4967689cfc89e934b895",
+          "sourcePath": "emojis/gif/3 peepo/peepo jam.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20jam.gif",
+          "frames": 4,
+          "poster": "posters/peepo-jam.webp",
+          "posterBytes": 1200,
+          "posterSha256": "d2929b7eb45c332291201e179516ead300f32e4019ed8fe53b7ea21976526b97",
+          "posterFrame": 0,
+          "posterCoverage": 58.3
+        }
+      }
+    },
+    {
+      "id": "peepo-jedi",
+      "slug": "peepo-jedi",
+      "name": "Peepo Jedi",
+      "category": "peepo",
+      "aliases": [
+        "Jedi"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-jedi.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 20258,
+          "sha256": "41c2602c912f9a43a67c418d691901421d819364aae72bd955b4ff0f0079c484",
+          "sourcePath": "emojis/gif/3 peepo/peepo jedi.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20jedi.gif",
+          "frames": 12,
+          "poster": "posters/peepo-jedi.webp",
+          "posterBytes": 830,
+          "posterSha256": "ebca06c8ecbe7f7ab51a10f4910aa5f5a63091f0ac2c5a98964453cfd6cb6f06",
+          "posterFrame": 0,
+          "posterCoverage": 24.2
+        }
+      }
+    },
+    {
+      "id": "peepo-kek",
+      "slug": "peepo-kek",
+      "name": "Peepo KEK",
+      "category": "peepo",
+      "aliases": [
+        "KEK"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-kek.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 13860,
+          "sha256": "a5976b10cdf76eef7f2a446b83ed7412d4dc5faf456f8814eb9c33ac487b1745",
+          "sourcePath": "emojis/gif/3 peepo/peepo kek.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20kek.gif",
+          "frames": 35,
+          "poster": "posters/peepo-kek.webp",
+          "posterBytes": 838,
+          "posterSha256": "6daa30b1ceb667bbcaa77df202f541b63624aaa284a4d5c4b1af90e1c19d80ac",
+          "posterFrame": 0,
+          "posterCoverage": 53
+        }
+      }
+    },
+    {
+      "id": "peepo-kekw",
+      "slug": "peepo-kekw",
+      "name": "Peepo KEKW",
+      "category": "peepo",
+      "aliases": [
+        "KEKW"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-kekw.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 5801,
+          "sha256": "a3c8ef4e330d0ee7350efe0b805cc7b7958fcbfda1793b442f4c95fee30f6314",
+          "sourcePath": "emojis/static/3 peepo/peepo kekw.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20kekw.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-king",
+      "slug": "peepo-king",
+      "name": "Peepo King",
+      "category": "peepo",
+      "aliases": [
+        "King"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-king.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9088,
+          "sha256": "28ad7adfaa17d5809b1232427a5871d3591b5958482f30b59cf4e551784cf1f1",
+          "sourcePath": "emojis/static/3 peepo/peepo king.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20king.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-laugh",
+      "slug": "peepo-laugh",
+      "name": "Peepo Laugh",
+      "category": "peepo",
+      "aliases": [
+        "Laugh"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-laugh.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 11919,
+          "sha256": "826b896d0e9dd1cf7d19fd7c424dc7033125622188bef0df34475f0f7610d585",
+          "sourcePath": "emojis/gif/3 peepo/peepo laugh.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20laugh.gif",
+          "frames": 6,
+          "poster": "posters/peepo-laugh.webp",
+          "posterBytes": 1472,
+          "posterSha256": "01ac22db3eef05f47c434d26bfd76da24369207f27e97d48583db0ee8aabdb2c",
+          "posterFrame": 0,
+          "posterCoverage": 71.7
+        }
+      }
+    },
+    {
+      "id": "peepo-money-rain",
+      "slug": "peepo-money-rain",
+      "name": "Peepo Money Rain",
+      "category": "peepo",
+      "aliases": [
+        "Money Rain"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-money-rain.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 78971,
+          "sha256": "1565e2670f722a759f524227f0ae95c66932169026ec5fe0ba98a6f4d758cbca",
+          "sourcePath": "emojis/gif/3 peepo/peepo money rain.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20money%20rain.gif",
+          "frames": 24,
+          "poster": "posters/peepo-money-rain.webp",
+          "posterBytes": 2134,
+          "posterSha256": "0a02e71a602fa6a0eaf19bafbcdd63303af5b82bb682d9f1f39450c2d19dbfbd",
+          "posterFrame": 0,
+          "posterCoverage": 76.8
+        }
+      }
+    },
+    {
+      "id": "peepo-nosign",
+      "slug": "peepo-nosign",
+      "name": "Peepo Nosign",
+      "category": "peepo",
+      "aliases": [
+        "Nosign"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-nosign.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6741,
+          "sha256": "a671b7614ed793ce7d61c5beb0779dd0a30b16dec35000700f864a1cb27b5dae",
+          "sourcePath": "emojis/static/3 peepo/peepo nosign.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20nosign.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-pixel",
+      "slug": "peepo-pixel",
+      "name": "Peepo Pixel",
+      "category": "peepo",
+      "aliases": [
+        "Pixel"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-pixel.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 2888,
+          "sha256": "2038e22f3fab7f64a398388108178525df972fbecd082b892f082e9305589867",
+          "sourcePath": "emojis/gif/3 peepo/peepo pixel.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20pixel.gif",
+          "frames": 6,
+          "poster": "posters/peepo-pixel.webp",
+          "posterBytes": 572,
+          "posterSha256": "aa8c5945df4a4ec0ba354d62996aae7bfda1e75acb610371ae3d0263d95c52bc",
+          "posterFrame": 0,
+          "posterCoverage": 30.5
+        }
+      }
+    },
+    {
+      "id": "peepo-poggies",
+      "slug": "peepo-poggies",
+      "name": "Peepo POGGIES",
+      "category": "peepo",
+      "aliases": [
+        "Poggies"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-poggies.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9388,
+          "sha256": "2fc93c2a40ed68a3640e99df5d674d1c5bc07ca0667dbcaedf8ba433a3d18c57",
+          "sourcePath": "emojis/static/3 peepo/peepo poggies.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20poggies.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-popcorn",
+      "slug": "peepo-popcorn",
+      "name": "Peepo Popcorn",
+      "category": "peepo",
+      "aliases": [
+        "Popcorn"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-popcorn.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9469,
+          "sha256": "c2bceab3cffad590ac175a9425f47e7dfd18d48ae80f5daf9bbb5fe8fd52d11d",
+          "sourcePath": "emojis/static/3 peepo/peepo popcorn.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20popcorn.png"
+        },
+        "gif": {
+          "src": "gif/peepo-popcorn.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 7131,
+          "sha256": "48c899639c783c3dde0340991aec88599100eab4e29b4251b3c2a1b004b90265",
+          "sourcePath": "emojis/gif/3 peepo/peepo popcorn.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20popcorn.gif",
+          "frames": 2,
+          "poster": "posters/peepo-popcorn.webp",
+          "posterBytes": 1628,
+          "posterSha256": "156417b0bc13be2bd3c043bf569a615492b97aef3c487db00465403dd6aa3ba1",
+          "posterFrame": 0,
+          "posterCoverage": 85.6
+        }
+      }
+    },
+    {
+      "id": "peepo-riot",
+      "slug": "peepo-riot",
+      "name": "Peepo Riot",
+      "category": "peepo",
+      "aliases": [
+        "Riot"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-riot.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 132565,
+          "sha256": "3f5b9977b9cf5d0e649735e7c8ca7bd3283e75485980e37314b615608f43a54a",
+          "sourcePath": "emojis/gif/3 peepo/peepo riot.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20riot.gif",
+          "frames": 49,
+          "poster": "posters/peepo-riot.webp",
+          "posterBytes": 1282,
+          "posterSha256": "fa44b88195df75dcd8abff3748b0630998409c4014eba30b5c50b2dbb57322fa",
+          "posterFrame": 0,
+          "posterCoverage": 54
+        }
+      }
+    },
+    {
+      "id": "peepo-sad-hugs",
+      "slug": "peepo-sad-hugs",
+      "name": "Peepo Sad Hugs",
+      "category": "peepo",
+      "aliases": [
+        "Sad Hugs"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-sad-hugs.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7030,
+          "sha256": "f81ed185e660fd74e80da7bcc951c18ee68662b26e0fa332f1781b2725da3475",
+          "sourcePath": "emojis/static/3 peepo/peepo sad hugs.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20sad%20hugs.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-sad-rain",
+      "slug": "peepo-sad-rain",
+      "name": "Peepo Sad Rain",
+      "category": "peepo",
+      "aliases": [
+        "Sad Rain"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-sad-rain.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 27059,
+          "sha256": "9fbcbfe551d285b57b7db31f7021e9e9423c2ff62550df0f51490a18310da010",
+          "sourcePath": "emojis/gif/3 peepo/peepo sad rain.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20sad%20rain.gif",
+          "frames": 15,
+          "poster": "posters/peepo-sad-rain.webp",
+          "posterBytes": 1910,
+          "posterSha256": "d5be290d88ccc389b88c71226cd74bbd806e53d88e6b54549da741fccf9494dd",
+          "posterFrame": 0,
+          "posterCoverage": 58.3
+        }
+      }
+    },
+    {
+      "id": "peepo-shy",
+      "slug": "peepo-shy",
+      "name": "Peepo Shy",
+      "category": "peepo",
+      "aliases": [
+        "Shy"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-shy.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 5657,
+          "sha256": "a6f6cb6ec64e251e9839b280dc44ced28cd388e8edb223d14ef3bcc4d7d7093b",
+          "sourcePath": "emojis/gif/3 peepo/peepo shy.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20shy.gif",
+          "frames": 2,
+          "poster": "posters/peepo-shy.webp",
+          "posterBytes": 1178,
+          "posterSha256": "e626ffa4f0354146b031a35aafcf21ed00ed70c619645f6fe25ab9924a8e50f3",
+          "posterFrame": 0,
+          "posterCoverage": 57.8
+        }
+      }
+    },
+    {
+      "id": "peepo-sleep",
+      "slug": "peepo-sleep",
+      "name": "Peepo Sleep",
+      "category": "peepo",
+      "aliases": [
+        "Sleep"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-sleep.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 48717,
+          "sha256": "817e143e07150ed2f80557e1a421a2613975f3d74fbe012c9feb10655a4248d2",
+          "sourcePath": "emojis/gif/3 peepo/peepo sleep.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20sleep.gif",
+          "frames": 28,
+          "poster": "posters/peepo-sleep.webp",
+          "posterBytes": 876,
+          "posterSha256": "0a35a71716dc7bbd443c7c4c65abc39f6ed9002c3c22de58c37359eb10cd2068",
+          "posterFrame": 0,
+          "posterCoverage": 52.1
+        }
+      }
+    },
+    {
+      "id": "peepo-stonks",
+      "slug": "peepo-stonks",
+      "name": "Peepo Stonks",
+      "category": "peepo",
+      "aliases": [
+        "Stonks"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-stonks.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6742,
+          "sha256": "b30a663a5d44dcdee2c6778af14df121138b76b936f720675083117eac1cd0fe",
+          "sourcePath": "emojis/static/3 peepo/peepo stonks.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20stonks.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-toilet",
+      "slug": "peepo-toilet",
+      "name": "Peepo Toilet",
+      "category": "peepo",
+      "aliases": [
+        "Toilet"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-toilet.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 35021,
+          "sha256": "3d062140f9fcff3aa4ad009aed324fca98704ae43274a939b1f35572d0c2557b",
+          "sourcePath": "emojis/gif/3 peepo/peepo toilet.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20toilet.gif",
+          "frames": 10,
+          "poster": "posters/peepo-toilet.webp",
+          "posterBytes": 1560,
+          "posterSha256": "4d95fb241c52d7fab35e00311c4bf6f8fc289994830014aeec8a800c9e8d3316",
+          "posterFrame": 0,
+          "posterCoverage": 74.9
+        }
+      }
+    },
+    {
+      "id": "peepo-wait",
+      "slug": "peepo-wait",
+      "name": "Peepo Wait",
+      "category": "peepo",
+      "aliases": [
+        "Wait"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-wait.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7304,
+          "sha256": "71bd9368cb093cde2cbb62f08592a83294dc02a074335c8ec07c9b70433c2cc4",
+          "sourcePath": "emojis/static/3 peepo/peepo wait.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20wait.png"
+        }
+      }
+    },
+    {
+      "id": "peepo-wicked",
+      "slug": "peepo-wicked",
+      "name": "Peepo Wicked",
+      "category": "peepo",
+      "aliases": [
+        "Wicked"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-wicked.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7134,
+          "sha256": "f0256d19a9b2d641e46d1f038defbcc0a9776f29a96dbab586e214ede36f89db",
+          "sourcePath": "emojis/static/3 peepo/peepo wicked.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20wicked.png"
+        },
+        "gif": {
+          "src": "gif/peepo-wicked.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 71727,
+          "sha256": "b374d66141c77ec4696b7248612bc095c058d3d16b8a952073ee1f74a319150e",
+          "sourcePath": "emojis/gif/3 peepo/peepo wicked.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20wicked.gif",
+          "frames": 24,
+          "poster": "posters/peepo-wicked.webp",
+          "posterBytes": 1306,
+          "posterSha256": "6c30f2af6ae2cefb91c813edde566b3e1110ca4fc08ed6c80952fda094be728c",
+          "posterFrame": 0,
+          "posterCoverage": 69
+        }
+      }
+    },
+    {
+      "id": "peepo-wiggle",
+      "slug": "peepo-wiggle",
+      "name": "Peepo Wiggle",
+      "category": "peepo",
+      "aliases": [
+        "Wiggle"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/peepo-wiggle.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 12245,
+          "sha256": "6b99dccf9b317f6e6a11798bac4790abe760406390cae539395aef2dd4259626",
+          "sourcePath": "emojis/gif/3 peepo/peepo wiggle.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/3%20peepo/peepo%20wiggle.gif",
+          "frames": 6,
+          "poster": "posters/peepo-wiggle.webp",
+          "posterBytes": 1684,
+          "posterSha256": "45c665018112db99b457a5df511b32ff7a93d26b11c75f7e853ceb548af6751b",
+          "posterFrame": 0,
+          "posterCoverage": 55.7
+        }
+      }
+    },
+    {
+      "id": "peepo-yes",
+      "slug": "peepo-yes",
+      "name": "Peepo Yes",
+      "category": "peepo",
+      "aliases": [
+        "Yes"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/peepo-yes.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7624,
+          "sha256": "782e433ccc80033cf54c329b38726c9511252e16fb2a72023431e68e0500ba46",
+          "sourcePath": "emojis/static/3 peepo/peepo yes.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/3%20peepo/peepo%20yes.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-ahaa",
+      "slug": "pepe-ahaa",
+      "name": "Pepe Ahaa",
+      "category": "pepe",
+      "aliases": [
+        "Ahaa"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-ahaa.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 50324,
+          "sha256": "9ba62879a9cdd80badccb955eb1c992980c11f3f2f8d4e61eca8d4dec77cdeb0",
+          "sourcePath": "emojis/gif/1 pepe/pepe ahaa.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20ahaa.gif",
+          "frames": 15,
+          "poster": "posters/pepe-ahaa.webp",
+          "posterBytes": 1448,
+          "posterSha256": "74b6dc7fec3175c1813fb09b045ae8b9c3976ad0c61414a93f032c1481e94096",
+          "posterFrame": 0,
+          "posterCoverage": 85.1
+        }
+      }
+    },
+    {
+      "id": "pepe-angry",
+      "slug": "pepe-angry",
+      "name": "Pepe Angry",
+      "category": "pepe",
+      "aliases": [
+        "Angry"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-angry.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 15592,
+          "sha256": "fbb6f5d90c422d4c2d1c51831fb1cf006a08bc6d4d872bd5ea4b8b2c204f2251",
+          "sourcePath": "emojis/gif/1 pepe/pepe angry.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20angry.gif",
+          "frames": 6,
+          "poster": "posters/pepe-angry.webp",
+          "posterBytes": 706,
+          "posterSha256": "a865f4edf35f850e57e3983d95be72657ac0055d03643e534ba2e5d390440512",
+          "posterFrame": 0,
+          "posterCoverage": 100
+        }
+      }
+    },
+    {
+      "id": "pepe-ash",
+      "slug": "pepe-ash",
+      "name": "Pepe Ash",
+      "category": "pepe",
+      "aliases": [
+        "Ash"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-ash.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 60240,
+          "sha256": "3f95dd12d6cc63a6da248dea27fb6e886198619c802d8fb0d2f4c8ad11cb7985",
+          "sourcePath": "emojis/gif/1 pepe/pepe ash.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20ash.gif",
+          "frames": 32,
+          "poster": "posters/pepe-ash.webp",
+          "posterBytes": 1452,
+          "posterSha256": "084e1b147c713a720316ebadcde1c86c70e020c0744d55bb1ea4978bebdbb92a",
+          "posterFrame": 0,
+          "posterCoverage": 89.3
+        }
+      }
+    },
+    {
+      "id": "pepe-big-punch",
+      "slug": "pepe-big-punch",
+      "name": "Pepe Big Punch",
+      "category": "pepe",
+      "aliases": [
+        "Big Punch"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-big-punch.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6575,
+          "sha256": "5b7f97a89b888633ed27f4ca6750a67db936aaa7fe3f157ce9f87af98ef1b57f",
+          "sourcePath": "emojis/static/1 pepe/pepe big punch.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20big%20punch.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-blushing",
+      "slug": "pepe-blushing",
+      "name": "Pepe Blushing",
+      "category": "pepe",
+      "aliases": [
+        "Blushing"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-blushing.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6643,
+          "sha256": "9464e54ecbdcb555b43c3ce5242cb163a5c94b329cbdd4ddd9012b6a64f13281",
+          "sourcePath": "emojis/static/1 pepe/pepe blushing.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20blushing.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-cat-cry",
+      "slug": "pepe-cat-cry",
+      "name": "Pepe Cat Cry",
+      "category": "pepe",
+      "aliases": [
+        "Cat Cry"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-cat-cry.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8299,
+          "sha256": "fe316bfd068c848b9e305aa4080c439afbafcce2ff808d1aa1b8b61d04c30f85",
+          "sourcePath": "emojis/static/1 pepe/pepe cat cry.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20cat%20cry.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-chad",
+      "slug": "pepe-chad",
+      "name": "Pepe Chad",
+      "category": "pepe",
+      "aliases": [
+        "Chad"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-chad.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8567,
+          "sha256": "abb48d914bf62c7a537732dad49f22c36e536ba0a07dbfb23114e64eff95d250",
+          "sourcePath": "emojis/static/1 pepe/pepe chad.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20chad.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-cheers",
+      "slug": "pepe-cheers",
+      "name": "Pepe Cheers",
+      "category": "pepe",
+      "aliases": [
+        "Cheers"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-cheers.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6740,
+          "sha256": "0fbf026cc2b9dbe0c0ab91652d59f118db254991e4074b49c139fd2018f2c6eb",
+          "sourcePath": "emojis/static/1 pepe/pepe cheers.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20cheers.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-coffee",
+      "slug": "pepe-coffee",
+      "name": "Pepe Coffee",
+      "category": "pepe",
+      "aliases": [
+        "Coffee"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-coffee.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8495,
+          "sha256": "2e0686f899a74630699e0e47f9d5dca7eedd5ca7ea988f5e1fd6961ba991c317",
+          "sourcePath": "emojis/static/1 pepe/pepe coffee.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20coffee.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-copium",
+      "slug": "pepe-copium",
+      "name": "Pepe Copium",
+      "category": "pepe",
+      "aliases": [
+        "Copium"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-copium.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 10553,
+          "sha256": "2ffa7551aca38c2d24f24a3950ddcc573b07f547ced6fbd29a4134af53ca48b2",
+          "sourcePath": "emojis/static/1 pepe/pepe copium.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20copium.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-creepy-lurk",
+      "slug": "pepe-creepy-lurk",
+      "name": "Pepe Creepy Lurk",
+      "category": "pepe",
+      "aliases": [
+        "Creepy Lurk"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-creepy-lurk.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 322375,
+          "sha256": "20218d2aa3d99543e0367cfa1289cee41fe7ff998c8391f8524dcfc3caae5e76",
+          "sourcePath": "emojis/gif/1 pepe/pepe creepy lurk.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20creepy%20lurk.gif",
+          "frames": 321,
+          "poster": "posters/pepe-creepy-lurk.webp",
+          "posterBytes": 856,
+          "posterSha256": "d56c4f33bb6dbc7c872b7d5085658b6b4ebbdc593e77e44e8be1c5ec8b6b650c",
+          "posterFrame": 240,
+          "posterCoverage": 35.5
+        }
+      }
+    },
+    {
+      "id": "pepe-cringe-2",
+      "slug": "pepe-cringe-2",
+      "name": "Pepe Cringe 2",
+      "category": "pepe",
+      "aliases": [
+        "Cringe 2"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-cringe-2.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9626,
+          "sha256": "f9b65f75f062a5afad787f80ca7b236044761fa5d48ff65b3fbe5f069acb7509",
+          "sourcePath": "emojis/static/1 pepe/pepe cringe 2.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20cringe%202.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-cross",
+      "slug": "pepe-cross",
+      "name": "Pepe Cross",
+      "category": "pepe",
+      "aliases": [
+        "Cross"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-cross.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8472,
+          "sha256": "df868ef27dc668445f244759f0f86bae46e01422d0000177a9673ff5a0613572",
+          "sourcePath": "emojis/static/1 pepe/pepe cross.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20cross.png"
+        },
+        "gif": {
+          "src": "gif/pepe-cross.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 255686,
+          "sha256": "341e65fe5c0b22fa08dba83d2f99c2b1b607769811d71021c07e27790918c897",
+          "sourcePath": "emojis/gif/1 pepe/pepe cross.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20cross.gif",
+          "frames": 88,
+          "poster": "posters/pepe-cross.webp",
+          "posterBytes": 1578,
+          "posterSha256": "b21803524b1104976d9327b8e4c85be1933c85c4502a4af3b9b1451306f5f209",
+          "posterFrame": 0,
+          "posterCoverage": 81.1
+        }
+      }
+    },
+    {
+      "id": "pepe-crowded",
+      "slug": "pepe-crowded",
+      "name": "Pepe Crowded",
+      "category": "pepe",
+      "aliases": [
+        "Crowded"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-crowded.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 11170,
+          "sha256": "d7bf84c372288a6967c37b95a78bc325d829269f8a2dc2eb96defcf6d4f8543c",
+          "sourcePath": "emojis/static/1 pepe/pepe crowded.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20crowded.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-cry",
+      "slug": "pepe-cry",
+      "name": "Pepe Cry",
+      "category": "pepe",
+      "aliases": [
+        "Cry"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-cry.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9320,
+          "sha256": "112974c948f13588c8e4b9bb5ba63e6c52a81332add08a4aa85c08445963badf",
+          "sourcePath": "emojis/static/1 pepe/pepe cry.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20cry.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-cry-hands",
+      "slug": "pepe-cry-hands",
+      "name": "Pepe Cry Hands",
+      "category": "pepe",
+      "aliases": [
+        "Cry Hands"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-cry-hands.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8292,
+          "sha256": "dfa11b558f394cef2deaa469d5b461adbd8b5d53f6a6b4e4da3213dab44e5089",
+          "sourcePath": "emojis/static/1 pepe/pepe cry hands.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20cry%20hands.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-dance-happy",
+      "slug": "pepe-dance-happy",
+      "name": "Pepe Dance Happy",
+      "category": "pepe",
+      "aliases": [
+        "Dance Happy"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-dance-happy.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 152826,
+          "sha256": "2fb01e610d9685fc1e4d4ac76684933c20603e90619688bb0bca135cc047f775",
+          "sourcePath": "emojis/gif/1 pepe/pepe dance happy.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20dance%20happy.gif",
+          "frames": 81,
+          "poster": "posters/pepe-dance-happy.webp",
+          "posterBytes": 814,
+          "posterSha256": "1b5f0da3b4995ac82291b17521122164d1c6ca376c189a6b986034183422032e",
+          "posterFrame": 0,
+          "posterCoverage": 36.6
+        }
+      }
+    },
+    {
+      "id": "pepe-dance-troll",
+      "slug": "pepe-dance-troll",
+      "name": "Pepe Dance Troll",
+      "category": "pepe",
+      "aliases": [
+        "Dance Troll"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-dance-troll.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 45749,
+          "sha256": "9e949e8bab4edb94d95171d5291e420dd39480524ee25e1f705e574627b4ba31",
+          "sourcePath": "emojis/gif/1 pepe/pepe dance troll.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20dance%20troll.gif",
+          "frames": 25,
+          "poster": "posters/pepe-dance-troll.webp",
+          "posterBytes": 704,
+          "posterSha256": "671280676b6b128eb5373c553d5ce69f57d2b0ed1babeb9ce5dd64d0b2603bfc",
+          "posterFrame": 0,
+          "posterCoverage": 29.6
+        }
+      }
+    },
+    {
+      "id": "pepe-door",
+      "slug": "pepe-door",
+      "name": "Pepe Door",
+      "category": "pepe",
+      "aliases": [
+        "Door"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-door.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 95045,
+          "sha256": "3fa618808725caaeb49f1fbe6ef73475bf4b1bc70062380994ca48b89f8f15ae",
+          "sourcePath": "emojis/gif/1 pepe/pepe door.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20door.gif",
+          "frames": 35,
+          "poster": "posters/pepe-door.webp",
+          "posterBytes": 576,
+          "posterSha256": "9858d956214d2657bad7fc2d1e8d1063426ab3ed328dbae64d92c070d1a3a910",
+          "posterFrame": 0,
+          "posterCoverage": 100
+        }
+      }
+    },
+    {
+      "id": "pepe-driver",
+      "slug": "pepe-driver",
+      "name": "Pepe Driver",
+      "category": "pepe",
+      "aliases": [
+        "Driver"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-driver.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 64123,
+          "sha256": "9817c6925d5f2496b301872b6f45a62e4c95f331be64f21a0ec3461c4a9a54d7",
+          "sourcePath": "emojis/gif/1 pepe/pepe driver.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20driver.gif",
+          "frames": 24,
+          "poster": "posters/pepe-driver.webp",
+          "posterBytes": 1194,
+          "posterSha256": "a49bea79abef5e0a6849f4e31a591ce9a4ce64357dc649b7c8c44800766778f9",
+          "posterFrame": 0,
+          "posterCoverage": 73.7
+        }
+      }
+    },
+    {
+      "id": "pepe-easy-ez",
+      "slug": "pepe-easy-ez",
+      "name": "Pepe Easy EZ",
+      "category": "pepe",
+      "aliases": [
+        "Easy EZ"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-easy-ez.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8934,
+          "sha256": "1d10e04a0408a121d4c56d2fe961dd9846ce403bc93a28004ea2c91199b7600e",
+          "sourcePath": "emojis/static/1 pepe/pepe easy ez.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20easy%20ez.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-enraged-scream",
+      "slug": "pepe-enraged-scream",
+      "name": "Pepe Enraged Scream",
+      "category": "pepe",
+      "aliases": [
+        "Enraged Scream"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-enraged-scream.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 66530,
+          "sha256": "136847b2b6b9158729de58e7801ba270decae324999c57b1e9ebf071e31e7974",
+          "sourcePath": "emojis/gif/1 pepe/pepe enraged scream.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20enraged%20scream.gif",
+          "frames": 16,
+          "poster": "posters/pepe-enraged-scream.webp",
+          "posterBytes": 1390,
+          "posterSha256": "c6b009a3a961ae035f3fbb05c3a910688a5ae5851c2d8fe1b25f069cf9d56bf2",
+          "posterFrame": 0,
+          "posterCoverage": 99.2
+        }
+      }
+    },
+    {
+      "id": "pepe-faces",
+      "slug": "pepe-faces",
+      "name": "Pepe Faces",
+      "category": "pepe",
+      "aliases": [
+        "Faces"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-faces.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 11571,
+          "sha256": "d2ff384db0c2fc52567d0408e5fcf93ebccb3bc5a0d5a4e4097ee8c214594b61",
+          "sourcePath": "emojis/static/1 pepe/pepe faces.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20faces.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-fast-run",
+      "slug": "pepe-fast-run",
+      "name": "Pepe Fast Run",
+      "category": "pepe",
+      "aliases": [
+        "Fast Run"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-fast-run.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 40841,
+          "sha256": "c4f34e9283a88d10ae7353480f9bc006adf29d67780bbf79e1eec22a60138abc",
+          "sourcePath": "emojis/gif/1 pepe/pepe fast run.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20fast%20run.gif",
+          "frames": 25,
+          "poster": "posters/pepe-fast-run.webp",
+          "posterBytes": 1550,
+          "posterSha256": "e95c961b1b92eda17f3ce6fe558f09b1f0ef7f24a45c76111b31544712fcf126",
+          "posterFrame": 0,
+          "posterCoverage": 80.1
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-ahegao-man",
+      "slug": "pepe-feels-ahegao-man",
+      "name": "Pepe Feels Ahegao Man",
+      "category": "pepe",
+      "aliases": [
+        "Feels Ahegao Man"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-feels-ahegao-man.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9624,
+          "sha256": "bedaafc015f52c9de621e3595a65695ccb7e5308f297a340441a095083a153db",
+          "sourcePath": "emojis/static/1 pepe/pepe feels ahegao man.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20feels%20ahegao%20man.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-birthday-man",
+      "slug": "pepe-feels-birthday-man",
+      "name": "Pepe Feels Birthday Man",
+      "category": "pepe",
+      "aliases": [
+        "Feels Birthday Man"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-feels-birthday-man.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6279,
+          "sha256": "98f94ed561ca7c9d55f5f3f9b9b6af22b39bf79f206a043633df1e2c6e32a6c7",
+          "sourcePath": "emojis/static/1 pepe/pepe feels birthday man.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20feels%20birthday%20man.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-fat-man",
+      "slug": "pepe-feels-fat-man",
+      "name": "Pepe Feels Fat Man",
+      "category": "pepe",
+      "aliases": [
+        "Feels Fat Man"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-feels-fat-man.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6945,
+          "sha256": "8a25ca4ab3639abd6c7f3b34d1c7bd3f6008d3dcdd8a284213e63501fe3aacf9",
+          "sourcePath": "emojis/static/1 pepe/pepe feels fat man.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20feels%20fat%20man.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-good-man",
+      "slug": "pepe-feels-good-man",
+      "name": "Pepe Feels Good Man",
+      "category": "pepe",
+      "aliases": [
+        "Feels Good Man"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-feels-good-man.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8334,
+          "sha256": "40f172c53a0224148e0189abc0a7a6f7bb2d9c8803409d549eb9cf4f60f70072",
+          "sourcePath": "emojis/static/1 pepe/pepe feels good man.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20feels%20good%20man.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-good-man-emote",
+      "slug": "pepe-feels-good-man-emote",
+      "name": "Pepe Feels Good Man Emote",
+      "category": "pepe",
+      "aliases": [
+        "Feels Good Man Emote"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-feels-good-man-emote.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8580,
+          "sha256": "d64ba6acbd112b377c4e091c1bc28ecac8bac949a8f1c802c03682b592d55f79",
+          "sourcePath": "emojis/static/1 pepe/pepe feels good man emote.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20feels%20good%20man%20emote.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-oh-god-man",
+      "slug": "pepe-feels-oh-god-man",
+      "name": "Pepe Feels Oh God Man",
+      "category": "pepe",
+      "aliases": [
+        "Feels Oh God Man"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-feels-oh-god-man.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8666,
+          "sha256": "a1967de51e203580103d56a13a9fdf96118214f278b76a6371fcfcefd62cf477",
+          "sourcePath": "emojis/static/1 pepe/pepe feels oh god man.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20feels%20oh%20god%20man.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-ok-man",
+      "slug": "pepe-feels-ok-man",
+      "name": "Pepe Feels Ok Man",
+      "category": "pepe",
+      "aliases": [
+        "Feels Ok Man"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-feels-ok-man.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8922,
+          "sha256": "f355a09f184306ed82daa4d840a163d50c5d6213489ac4e99b5cf6d0bc965fac",
+          "sourcePath": "emojis/static/1 pepe/pepe feels ok man.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20feels%20ok%20man.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-feels-rain-man",
+      "slug": "pepe-feels-rain-man",
+      "name": "Pepe Feels Rain Man",
+      "category": "pepe",
+      "aliases": [
+        "Feels Rain Man"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-feels-rain-man.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 42956,
+          "sha256": "c4181358cb7549f8ce549178cd8193e25795f6ec44e956fcc52669d8f1f0424c",
+          "sourcePath": "emojis/gif/1 pepe/pepe feels rain man.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20feels%20rain%20man.gif",
+          "frames": 15,
+          "poster": "posters/pepe-feels-rain-man.webp",
+          "posterBytes": 1860,
+          "posterSha256": "cd96b5b3ca01e9c77d0b0417228610b7681e080d1eb901d1f140833656ce2053",
+          "posterFrame": 0,
+          "posterCoverage": 60.8
+        }
+      }
+    },
+    {
+      "id": "pepe-fiendish",
+      "slug": "pepe-fiendish",
+      "name": "Pepe Fiendish",
+      "category": "pepe",
+      "aliases": [
+        "Fiendish"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-fiendish.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 11325,
+          "sha256": "891f92b33a721f84625e7d51072b3d450f8717c86f4591bf62126589e11143e8",
+          "sourcePath": "emojis/static/1 pepe/pepe fiendish.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20fiendish.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-guitar",
+      "slug": "pepe-guitar",
+      "name": "Pepe Guitar",
+      "category": "pepe",
+      "aliases": [
+        "Guitar"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-guitar.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 5027,
+          "sha256": "609bbd53ab7da86761e4fe328709e1b929cf6f93386d334f1deb9617d40bb6c2",
+          "sourcePath": "emojis/gif/1 pepe/pepe guitar.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20guitar.gif",
+          "frames": 2,
+          "poster": "posters/pepe-guitar.webp",
+          "posterBytes": 1102,
+          "posterSha256": "0d9f28fda3870550b8cd821deb6fec8f5fac52b65c58f8a131dfd5221d8fc633",
+          "posterFrame": 0,
+          "posterCoverage": 47.7
+        }
+      }
+    },
+    {
+      "id": "pepe-hacker",
+      "slug": "pepe-hacker",
+      "name": "Pepe Hacker",
+      "category": "pepe",
+      "aliases": [
+        "Hacker"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-hacker.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 18207,
+          "sha256": "c8cf23b9e7f5246d83fa3afb683a14dfa4cfc443de69ec87e3ea49a0b56ea841",
+          "sourcePath": "emojis/gif/1 pepe/pepe hacker.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20hacker.gif",
+          "frames": 11,
+          "poster": "posters/pepe-hacker.webp",
+          "posterBytes": 1412,
+          "posterSha256": "9c6c919d9d9c40eefe9d9c26cfddc3cc3b24d84700369562f1e6a56e2c40def7",
+          "posterFrame": 0,
+          "posterCoverage": 84.2
+        }
+      }
+    },
+    {
+      "id": "pepe-happy",
+      "slug": "pepe-happy",
+      "name": "Pepe Happy",
+      "category": "pepe",
+      "aliases": [
+        "Happy"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-happy.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 24600,
+          "sha256": "699fe6df1179bde32ab942c1429b6e9ed7d02ac52a2c01fe8d414f18ddf5e852",
+          "sourcePath": "emojis/gif/1 pepe/pepe happy.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20happy.gif",
+          "frames": 8,
+          "poster": "posters/pepe-happy.webp",
+          "posterBytes": 1624,
+          "posterSha256": "f32d36ac379da4639f613d8f69401045dedda9de9b2603010f40ff5afd817afe",
+          "posterFrame": 0,
+          "posterCoverage": 72.4
+        }
+      }
+    },
+    {
+      "id": "pepe-hmm",
+      "slug": "pepe-hmm",
+      "name": "Pepe Hmm",
+      "category": "pepe",
+      "aliases": [
+        "Hmm"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-hmm.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7593,
+          "sha256": "110d5ef364d0c51eff472838edc51cdba29b07a6fc1b7ee49da34c97ca6fadb5",
+          "sourcePath": "emojis/static/1 pepe/pepe hmm.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20hmm.png"
+        },
+        "gif": {
+          "src": "gif/pepe-hmm.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 44198,
+          "sha256": "df47359acd0942ff8eb0564abda6b43a5a2fba827a01e9e57a8ca796614606b4",
+          "sourcePath": "emojis/gif/1 pepe/pepe hmm.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20hmm.gif",
+          "frames": 26,
+          "poster": "posters/pepe-hmm.webp",
+          "posterBytes": 1558,
+          "posterSha256": "22c79521a0dd7ce54273dba590e47277206f5adc9da1410048cb06ccc1c0099c",
+          "posterFrame": 0,
+          "posterCoverage": 87.2
+        }
+      }
+    },
+    {
+      "id": "pepe-hmmm",
+      "slug": "pepe-hmmm",
+      "name": "Pepe Hmmm",
+      "category": "pepe",
+      "aliases": [
+        "Hmmm"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-hmmm.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9855,
+          "sha256": "088a94c32739e5003663513b2c66faf854049a49b75ebe62e793feb9a2072007",
+          "sourcePath": "emojis/static/1 pepe/pepe hmmm.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20hmmm.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-howdy",
+      "slug": "pepe-howdy",
+      "name": "Pepe Howdy",
+      "category": "pepe",
+      "aliases": [
+        "Howdy"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-howdy.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 22205,
+          "sha256": "32323e81827aa8642eb7f01f3d1a4f2abde90557867857628416f1973671cc44",
+          "sourcePath": "emojis/gif/1 pepe/pepe howdy.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20howdy.gif",
+          "frames": 9,
+          "poster": "posters/pepe-howdy.webp",
+          "posterBytes": 1150,
+          "posterSha256": "ba74cf6c72b2ad23e27a690e7dec9f1e082c03bde9697c3dd1b8c8f0e5121fd1",
+          "posterFrame": 0,
+          "posterCoverage": 77.6
+        }
+      }
+    },
+    {
+      "id": "pepe-huh",
+      "slug": "pepe-huh",
+      "name": "Pepe Huh",
+      "category": "pepe",
+      "aliases": [
+        "Huh"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-huh.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6030,
+          "sha256": "b12fb9056f3410d24522df0766c601cc980d3fb804d3437de30c37a6fb4f5341",
+          "sourcePath": "emojis/static/1 pepe/pepe huh.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20huh.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-jam",
+      "slug": "pepe-jam",
+      "name": "Pepe Jam",
+      "category": "pepe",
+      "aliases": [
+        "Jam"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-jam.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 13494,
+          "sha256": "ba616c71e4a372b1016a7c9ae97d874e4587617ac4e9d0137866f9a24660e913",
+          "sourcePath": "emojis/gif/1 pepe/pepe jam.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20jam.gif",
+          "frames": 4,
+          "poster": "posters/pepe-jam.webp",
+          "posterBytes": 1378,
+          "posterSha256": "68de1640b64781f36eab908040113d9fa9ddb53804aacc48d1092c0588cec026",
+          "posterFrame": 0,
+          "posterCoverage": 86.7
+        }
+      }
+    },
+    {
+      "id": "pepe-jam-sides",
+      "slug": "pepe-jam-sides",
+      "name": "Pepe Jam Sides",
+      "category": "pepe",
+      "aliases": [
+        "Jam Sides"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-jam-sides.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 276842,
+          "sha256": "ed04b04eaa97e1bdd254c0802a2a8ba3622a2727f5f135ca7972c094e6b07826",
+          "sourcePath": "emojis/gif/1 pepe/pepe jam sides.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20jam%20sides.gif",
+          "frames": 100,
+          "poster": "posters/pepe-jam-sides.webp",
+          "posterBytes": 1106,
+          "posterSha256": "9add6a3739cb9b5adf6bb547940d84deff3c9b641bdd80c739035649a7071662",
+          "posterFrame": 0,
+          "posterCoverage": 78.4
+        }
+      }
+    },
+    {
+      "id": "pepe-kek-ez",
+      "slug": "pepe-kek-ez",
+      "name": "Pepe KEK EZ",
+      "category": "pepe",
+      "aliases": [
+        "KEK EZ"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-kek-ez.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9639,
+          "sha256": "d2210b045496f0a411f7cf753e57e5d86a19c84ce941abdcb4e1d9d254abd9d2",
+          "sourcePath": "emojis/static/1 pepe/pepe kek ez.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20kek%20ez.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-kek-with-pain-cry",
+      "slug": "pepe-kek-with-pain-cry",
+      "name": "Pepe KEK with Pain Cry",
+      "category": "pepe",
+      "aliases": [
+        "KEK With Pain Cry"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-kek-with-pain-cry.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 10970,
+          "sha256": "cf73f8efd54781fd8780c035f5dd18aade126757e3b570d2717e3002b7bc4304",
+          "sourcePath": "emojis/static/1 pepe/pepe kek with pain cry.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20kek%20with%20pain%20cry.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-laser-reeee",
+      "slug": "pepe-laser-reeee",
+      "name": "Pepe Laser REEEE",
+      "category": "pepe",
+      "aliases": [
+        "Laser REEEE"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-laser-reeee.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 238196,
+          "sha256": "ae560eb2ac28fec183199ec91a85b7a510d488622dfa2a497409d469a37de1b8",
+          "sourcePath": "emojis/gif/1 pepe/pepe laser reeee.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20laser%20reeee.gif",
+          "frames": 76,
+          "poster": "posters/pepe-laser-reeee.webp",
+          "posterBytes": 1384,
+          "posterSha256": "f685320501346652748fbedf087a037302ceb38de49af3491381165341afbe56",
+          "posterFrame": 0,
+          "posterCoverage": 70.3
+        }
+      }
+    },
+    {
+      "id": "pepe-laugh",
+      "slug": "pepe-laugh",
+      "name": "Pepe Laugh",
+      "category": "pepe",
+      "aliases": [
+        "Laugh"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-laugh.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 10663,
+          "sha256": "f0e818a0f7803c5d74a97a32563e5c4edaeddf3b8a33a3a48eec9d0f39f39317",
+          "sourcePath": "emojis/static/1 pepe/pepe laugh.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20laugh.png"
+        },
+        "gif": {
+          "src": "gif/pepe-laugh.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 90122,
+          "sha256": "45fd43d904d6df3c1912b7b3f5480f25a467dbe11813a88c4d941c49e856d7db",
+          "sourcePath": "emojis/gif/1 pepe/pepe laugh.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20laugh.gif",
+          "frames": 30,
+          "poster": "posters/pepe-laugh.webp",
+          "posterBytes": 1398,
+          "posterSha256": "582ed4c8b91b53b2195b9858ac26342d682670cd9e7f6623fcc58b05f0830df4",
+          "posterFrame": 0,
+          "posterCoverage": 80.8
+        }
+      }
+    },
+    {
+      "id": "pepe-laugh-2",
+      "slug": "pepe-laugh-2",
+      "name": "Pepe Laugh 2",
+      "category": "pepe",
+      "aliases": [
+        "Laugh 2"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-laugh-2.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 15938,
+          "sha256": "4334cbe24caa415bcb8ca4efab5147e436021b0228cb1f9beaabe42574a1dffc",
+          "sourcePath": "emojis/gif/1 pepe/pepe laugh 2.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20laugh%202.gif",
+          "frames": 4,
+          "poster": "posters/pepe-laugh-2.webp",
+          "posterBytes": 1694,
+          "posterSha256": "8d5cf75282c03592071d7f4e3704b5de1469aced06e7eb9864a2e6c69b13392e",
+          "posterFrame": 0,
+          "posterCoverage": 93.7
+        }
+      }
+    },
+    {
+      "id": "pepe-laugh-kek-explode",
+      "slug": "pepe-laugh-kek-explode",
+      "name": "Pepe Laugh KEK Explode",
+      "category": "pepe",
+      "aliases": [
+        "Laugh KEK Explode"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-laugh-kek-explode.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 137941,
+          "sha256": "98ef639b9fc383c32173ed3f2561537b1a9abe2e2a7f0a7b945d15f99bb2a687",
+          "sourcePath": "emojis/gif/1 pepe/pepe laugh kek explode.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20laugh%20kek%20explode.gif",
+          "frames": 32,
+          "poster": "posters/pepe-laugh-kek-explode.webp",
+          "posterBytes": 1906,
+          "posterSha256": "f5167a9d9d7991f8904956350b01e53a683dffb328c6a539e6a63b6ac5cbcbfc",
+          "posterFrame": 0,
+          "posterCoverage": 90.6
+        }
+      }
+    },
+    {
+      "id": "pepe-laugh-mad",
+      "slug": "pepe-laugh-mad",
+      "name": "Pepe Laugh Mad",
+      "category": "pepe",
+      "aliases": [
+        "Laugh Mad"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-laugh-mad.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 108973,
+          "sha256": "590181089fb9cd5dd8c2485d26f46025ec978c161d19bc434657ad1eb861d7fd",
+          "sourcePath": "emojis/gif/1 pepe/pepe laugh mad.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20laugh%20mad.gif",
+          "frames": 36,
+          "poster": "posters/pepe-laugh-mad.webp",
+          "posterBytes": 1376,
+          "posterSha256": "740843fc4e07b1ad66f0bc2d3723d5d5cc7835eab90bf89ececc576373220406",
+          "posterFrame": 0,
+          "posterCoverage": 80.8
+        }
+      }
+    },
+    {
+      "id": "pepe-laughing",
+      "slug": "pepe-laughing",
+      "name": "Pepe Laughing",
+      "category": "pepe",
+      "aliases": [
+        "Laughing"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-laughing.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9150,
+          "sha256": "2340c9ca98aabe427774cb5aec2ffee2cd68569ca7baca8995c69f8e722c0487",
+          "sourcePath": "emojis/static/1 pepe/pepe laughing.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20laughing.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-lets-fucking-go-lfg",
+      "slug": "pepe-lets-fucking-go-lfg",
+      "name": "Pepe Let's Fucking Go LFG",
+      "category": "pepe",
+      "aliases": [
+        "Let's Fucking Go LFG"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-lets-fucking-go-lfg.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8576,
+          "sha256": "deeebb4629ed80cf56eae32e746af4429c9316d2f2fffc22e96a8a56dd5e24b9",
+          "sourcePath": "emojis/static/1 pepe/pepe lets fucking go lfg.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20lets%20fucking%20go%20lfg.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-mcdonalds",
+      "slug": "pepe-mcdonalds",
+      "name": "Pepe McDonald's",
+      "category": "pepe",
+      "aliases": [
+        "McDonald's"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-mcdonalds.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7314,
+          "sha256": "a998ea238cf8527d12e7f0fb1409a8e51ee0cfbb66bba2f22435b7a0ed7dceb5",
+          "sourcePath": "emojis/static/1 pepe/pepe mcdonalds.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20mcdonalds.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-minecraft",
+      "slug": "pepe-minecraft",
+      "name": "Pepe Minecraft",
+      "category": "pepe",
+      "aliases": [
+        "Minecraft"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-minecraft.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7081,
+          "sha256": "a4504b39e9095d332674e874e6d97eaeeacc46dd80e546b14be1a015bba50079",
+          "sourcePath": "emojis/static/1 pepe/pepe minecraft.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20minecraft.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-naruto-run",
+      "slug": "pepe-naruto-run",
+      "name": "Pepe Naruto Run",
+      "category": "pepe",
+      "aliases": [
+        "Naruto Run"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-naruto-run.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 13122,
+          "sha256": "7e93f46f87a18ccaf6416d68cf58479d4fb863a1915a0205f94646a7a11b0c08",
+          "sourcePath": "emojis/gif/1 pepe/pepe naruto run.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20naruto%20run.gif",
+          "frames": 6,
+          "poster": "posters/pepe-naruto-run.webp",
+          "posterBytes": 1092,
+          "posterSha256": "e1a04027a1d7ed28624de309bd9736e05b84b4ebb7c83a9d8c80571de93f64f5",
+          "posterFrame": 0,
+          "posterCoverage": 51.1
+        }
+      }
+    },
+    {
+      "id": "pepe-nervous",
+      "slug": "pepe-nervous",
+      "name": "Pepe Nervous",
+      "category": "pepe",
+      "aliases": [
+        "Nervous"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-nervous.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9528,
+          "sha256": "036e955cba7a77ae89c5e5fffa30b60e0496e94c565e86018ae561c121e4798f",
+          "sourcePath": "emojis/static/1 pepe/pepe nervous.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20nervous.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-ninja-naruto-camo",
+      "slug": "pepe-ninja-naruto-camo",
+      "name": "Pepe Ninja Naruto Camo",
+      "category": "pepe",
+      "aliases": [
+        "Ninja Naruto Camo"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-ninja-naruto-camo.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 48004,
+          "sha256": "bea1f345ae431487f0b0411d5a2a92aa27b86f9535c3156af4def2c5e27864e8",
+          "sourcePath": "emojis/gif/1 pepe/pepe ninja naruto camo.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20ninja%20naruto%20camo.gif",
+          "frames": 20,
+          "poster": "posters/pepe-ninja-naruto-camo.webp",
+          "posterBytes": 1472,
+          "posterSha256": "8cd4bab5c13c43517618f1f5c6a577ae265a4dc69a66d2b4aedef60106a1b427",
+          "posterFrame": 0,
+          "posterCoverage": 84.9
+        }
+      }
+    },
+    {
+      "id": "pepe-noted",
+      "slug": "pepe-noted",
+      "name": "Pepe Noted",
+      "category": "pepe",
+      "aliases": [
+        "Noted"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-noted.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7483,
+          "sha256": "12d5ddb9f90680f8182e6e11bd75fec60be8550e281bd1279e24fe00485ffa27",
+          "sourcePath": "emojis/static/1 pepe/pepe noted.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20noted.png"
+        },
+        "gif": {
+          "src": "gif/pepe-noted.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 338311,
+          "sha256": "b2fd32d44c1d380fbb9cc40ca670093dd9d1df8bea0c64b427fb020949b47122",
+          "sourcePath": "emojis/gif/1 pepe/pepe noted.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20noted.gif",
+          "frames": 143,
+          "poster": "posters/pepe-noted.webp",
+          "posterBytes": 1716,
+          "posterSha256": "e48059b3baafd6899cd7d9b6abef2c7631061c3d55b40a48607bc47546f0563b",
+          "posterFrame": 0,
+          "posterCoverage": 81.4
+        }
+      }
+    },
+    {
+      "id": "pepe-old",
+      "slug": "pepe-old",
+      "name": "Pepe Old",
+      "category": "pepe",
+      "aliases": [
+        "Old"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-old.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8295,
+          "sha256": "e1248cdfd250dede71ec917af54551f1b72d380ea591e389401600cd6333d9a7",
+          "sourcePath": "emojis/static/1 pepe/pepe old.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20old.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-pause-champ",
+      "slug": "pepe-pause-champ",
+      "name": "Pepe Pause Champ",
+      "category": "pepe",
+      "aliases": [
+        "Pause Champ"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-pause-champ.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6597,
+          "sha256": "888e1720f350e0b1556f8627c589cda971f202d184e36f86f36e7be5e5b5ccc7",
+          "sourcePath": "emojis/static/1 pepe/pepe pause champ.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20pause%20champ.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-pet-dank-memer",
+      "slug": "pepe-pet-dank-memer",
+      "name": "Pepe Pet Dank Memer",
+      "category": "pepe",
+      "aliases": [
+        "Pet Dank Memer"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-pet-dank-memer.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 28400,
+          "sha256": "b938278467fda1c5662758a52eba90ef10b060e71c82970055126678eaa33aae",
+          "sourcePath": "emojis/gif/1 pepe/pepe pet dank memer.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20pet%20dank%20memer.gif",
+          "frames": 10,
+          "poster": "posters/pepe-pet-dank-memer.webp",
+          "posterBytes": 1080,
+          "posterSha256": "f9ce1e2c2c971d0ee3ffa24caa477bba9850de40468020043e5bb516a919b700",
+          "posterFrame": 0,
+          "posterCoverage": 73.1
+        }
+      }
+    },
+    {
+      "id": "pepe-pls-dance",
+      "slug": "pepe-pls-dance",
+      "name": "Pepe Pls Dance",
+      "category": "pepe",
+      "aliases": [
+        "Pls Dance"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-pls-dance.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 65212,
+          "sha256": "8d3af145a563a9ed5786bc825c6bcd1f18b33f7ae40bd7405e42788554459765",
+          "sourcePath": "emojis/gif/1 pepe/pepe pls dance.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20pls%20dance.gif",
+          "frames": 22,
+          "poster": "posters/pepe-pls-dance.webp",
+          "posterBytes": 714,
+          "posterSha256": "83499bca6d75f128308b11d0b4f656e0ab5d548aaef27f7a38b0d7f9d419ffd8",
+          "posterFrame": 0,
+          "posterCoverage": 30.9
+        }
+      }
+    },
+    {
+      "id": "pepe-pog",
+      "slug": "pepe-pog",
+      "name": "Pepe POG",
+      "category": "pepe",
+      "aliases": [
+        "POG"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-pog.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 10355,
+          "sha256": "003e6c15286a8b38e641e70388516cdfba7c61bb33341f134056e387855826f8",
+          "sourcePath": "emojis/static/1 pepe/pepe pog.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20pog.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-poggers-chains",
+      "slug": "pepe-poggers-chains",
+      "name": "Pepe POGGERS Chains",
+      "category": "pepe",
+      "aliases": [
+        "POGGERS Chains"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-poggers-chains.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 36249,
+          "sha256": "66f85ab55c5f2e40adb65772e71ea099245c986a2a551f428d81128a96b5c63b",
+          "sourcePath": "emojis/gif/1 pepe/pepe poggers chains.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20poggers%20chains.gif",
+          "frames": 10,
+          "poster": "posters/pepe-poggers-chains.webp",
+          "posterBytes": 1576,
+          "posterSha256": "be6196f7a2a5f6cac3d0fc6abca904f12fb143783f0b0a70a2357a9e7d169e93",
+          "posterFrame": 0,
+          "posterCoverage": 94.2
+        }
+      }
+    },
+    {
+      "id": "pepe-popcorn",
+      "slug": "pepe-popcorn",
+      "name": "Pepe Popcorn",
+      "category": "pepe",
+      "aliases": [
+        "Popcorn"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-popcorn.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 65103,
+          "sha256": "b6d4ef0d6a8d7cce5f7955b691b2ab055f645b28415efbeab3f42b1ca46f91cb",
+          "sourcePath": "emojis/gif/1 pepe/pepe popcorn.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20popcorn.gif",
+          "frames": 27,
+          "poster": "posters/pepe-popcorn.webp",
+          "posterBytes": 1578,
+          "posterSha256": "ec8ffdcd7b44c299551110294dc9c041038eca409c1902d21973dc9972a106a7",
+          "posterFrame": 0,
+          "posterCoverage": 76.8
+        }
+      }
+    },
+    {
+      "id": "pepe-pray",
+      "slug": "pepe-pray",
+      "name": "Pepe Pray",
+      "category": "pepe",
+      "aliases": [
+        "Pepe Thinking",
+        "Pray"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-pray.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7222,
+          "sha256": "99041d595cc0ff62b1f69bf8313aeca05fcb7ece6fe996836002d8eb9c8a92cf",
+          "sourcePath": "emojis/static/1 pepe/pepe pray.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20pray.png"
+        },
+        "gif": {
+          "src": "gif/pepe-pray.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 48414,
+          "sha256": "19d5d6d8e5aa24ed630339de0666f1ddfc6bdcaf92d415eb2cf507bed9ab5e95",
+          "sourcePath": "emojis/gif/1 pepe/pepe pray.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20pray.gif",
+          "frames": 21,
+          "poster": "posters/pepe-pray.webp",
+          "posterBytes": 1476,
+          "posterSha256": "5f9994a05a8e925445ff7b417421bc77ec0e4f3da8ee0da1a8f8521ea380de80",
+          "posterFrame": 0,
+          "posterCoverage": 83.2
+        }
+      }
+    },
+    {
+      "id": "pepe-punch",
+      "slug": "pepe-punch",
+      "name": "Pepe Punch",
+      "category": "pepe",
+      "aliases": [
+        "Punch"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-punch.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6493,
+          "sha256": "0a40947e0ddd930c0eab70c9359aaf58eeebbf1626436349e00c33bc02f2d4e0",
+          "sourcePath": "emojis/static/1 pepe/pepe punch.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20punch.png"
+        },
+        "gif": {
+          "src": "gif/pepe-punch.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 12703,
+          "sha256": "63666811b759f9bab2a1f5ccc4603b1577647bc76442f3dc873eae7f6972bf62",
+          "sourcePath": "emojis/gif/1 pepe/pepe punch.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20punch.gif",
+          "frames": 6,
+          "poster": "posters/pepe-punch.webp",
+          "posterBytes": 726,
+          "posterSha256": "49b9843deccf0684991cce3649e264b7e0666a207621525b4c340a085078b31c",
+          "posterFrame": 0,
+          "posterCoverage": 48.7
+        }
+      }
+    },
+    {
+      "id": "pepe-reee",
+      "slug": "pepe-reee",
+      "name": "Pepe Reee",
+      "category": "pepe",
+      "aliases": [
+        "Reee"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-reee.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8479,
+          "sha256": "448b3bdd4c0b94439ee3db7046ba4941623510e3e0ffd7c6b11b29718ee76a08",
+          "sourcePath": "emojis/static/1 pepe/pepe reee.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20reee.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-retard",
+      "slug": "pepe-retard",
+      "name": "Pepe Retard",
+      "category": "pepe",
+      "aliases": [
+        "Retard"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-retard.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8982,
+          "sha256": "546984008d6a9297cc52dd00352a312d6ec4e1618d9fe1a604628cb105336dab",
+          "sourcePath": "emojis/static/1 pepe/pepe retard.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20retard.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-sad",
+      "slug": "pepe-sad",
+      "name": "Pepe Sad",
+      "category": "pepe",
+      "aliases": [
+        "Sad"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-sad.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7401,
+          "sha256": "9d251cd40ba19fc4507507b55c6e72cd153a10dd180ed64600342430f363c502",
+          "sourcePath": "emojis/static/1 pepe/pepe sad.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20sad.png"
+        },
+        "gif": {
+          "src": "gif/pepe-sad.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 202297,
+          "sha256": "ff966447d5a4b4a088685125d1ef939819eff76f208f705f0101655d2c0c8468",
+          "sourcePath": "emojis/gif/1 pepe/pepe sad.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20sad.gif",
+          "frames": 90,
+          "poster": "posters/pepe-sad.webp",
+          "posterBytes": 1124,
+          "posterSha256": "694738e4ff4e06e68629f526cb7d0b8b98692d17dafd43ce71b44c88439125d3",
+          "posterFrame": 0,
+          "posterCoverage": 65.2
+        }
+      }
+    },
+    {
+      "id": "pepe-salute",
+      "slug": "pepe-salute",
+      "name": "Pepe Salute",
+      "category": "pepe",
+      "aliases": [
+        "Salute"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-salute.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8834,
+          "sha256": "7ba556b2501ed9d9af1d375d0b691232b651b529b226f270e49bb048e4002b12",
+          "sourcePath": "emojis/static/1 pepe/pepe salute.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20salute.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-scary",
+      "slug": "pepe-scary",
+      "name": "Pepe Scary",
+      "category": "pepe",
+      "aliases": [
+        "Scary"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-scary.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 72688,
+          "sha256": "4f47c5471ce2f20c07b8e9a9cad3ad0f5263a4ae2936f8be53ad61c63b6f676f",
+          "sourcePath": "emojis/gif/1 pepe/pepe scary.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20scary.gif",
+          "frames": 21,
+          "poster": "posters/pepe-scary.webp",
+          "posterBytes": 1270,
+          "posterSha256": "b47088d5e0ad69f5cefff3a3080fe40474842beb72edc7aff600b0bbaefd7810",
+          "posterFrame": 0,
+          "posterCoverage": 98.2
+        }
+      }
+    },
+    {
+      "id": "pepe-sip-coffee",
+      "slug": "pepe-sip-coffee",
+      "name": "Pepe Sip Coffee",
+      "category": "pepe",
+      "aliases": [
+        "Sip Coffee"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-sip-coffee.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 75192,
+          "sha256": "989c4c2cdd1a7f5a819004b3678ee55a233ddabd24984ac4a48cfb8ecadb8a75",
+          "sourcePath": "emojis/gif/1 pepe/pepe sip coffee.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20sip%20coffee.gif",
+          "frames": 24,
+          "poster": "posters/pepe-sip-coffee.webp",
+          "posterBytes": 1508,
+          "posterSha256": "e494471fa5d6fef47c40fc7d1e1d0d7fc8b3b26494ff5214ebdee912eeeb7c39",
+          "posterFrame": 0,
+          "posterCoverage": 77.2
+        }
+      }
+    },
+    {
+      "id": "pepe-smirk",
+      "slug": "pepe-smirk",
+      "name": "Pepe Smirk",
+      "category": "pepe",
+      "aliases": [
+        "Smirk"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-smirk.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6694,
+          "sha256": "4bd9a3cae485b056ee6a4e3ce0e6a34fb1b83c34475cb4bd1cb3716c3cd50ae4",
+          "sourcePath": "emojis/static/1 pepe/pepe smirk.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20smirk.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-smoking",
+      "slug": "pepe-smoking",
+      "name": "Pepe Smoking",
+      "category": "pepe",
+      "aliases": [
+        "Smoking"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-smoking.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 184558,
+          "sha256": "b351276ac3a5a99e3afa9a04947f1531193dc970da61eb3f2d51c693b91c1a33",
+          "sourcePath": "emojis/gif/1 pepe/pepe smoking.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20smoking.gif",
+          "frames": 73,
+          "poster": "posters/pepe-smoking.webp",
+          "posterBytes": 1292,
+          "posterSha256": "f5571570e8cae1c2c633b69408787f832964bf5e8afd06fa32b90c3949a88bca",
+          "posterFrame": 0,
+          "posterCoverage": 84.5
+        }
+      }
+    },
+    {
+      "id": "pepe-smug",
+      "slug": "pepe-smug",
+      "name": "Pepe Smug",
+      "category": "pepe",
+      "aliases": [
+        "Smug"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-smug.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6698,
+          "sha256": "afa6b535e0e7fc669996b68730fc6421d90cf7741bec1be8b0a509cdf1475a28",
+          "sourcePath": "emojis/static/1 pepe/pepe smug.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20smug.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-suit",
+      "slug": "pepe-suit",
+      "name": "Pepe Suit",
+      "category": "pepe",
+      "aliases": [
+        "Suit"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-suit.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8705,
+          "sha256": "8e19ee8a434e7b7376b58701f786a45fbfc5a120f79f6058bd99b6ad48375cd3",
+          "sourcePath": "emojis/static/1 pepe/pepe suit.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20suit.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-suit-suprised",
+      "slug": "pepe-suit-suprised",
+      "name": "Pepe Suit Suprised",
+      "category": "pepe",
+      "aliases": [
+        "Suit Suprised"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-suit-suprised.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7519,
+          "sha256": "f431d8fa9cab53351f261702ae02f7cf81f0a39723b989ab67e547fb479a6c95",
+          "sourcePath": "emojis/static/1 pepe/pepe suit suprised.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20suit%20suprised.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-sunglasses",
+      "slug": "pepe-sunglasses",
+      "name": "Pepe Sunglasses",
+      "category": "pepe",
+      "aliases": [
+        "Sunglasses"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-sunglasses.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7719,
+          "sha256": "270e929c963ca20227cb723df482814a82e085d46c5f9cfb67c5b64d2ac09b9a",
+          "sourcePath": "emojis/static/1 pepe/pepe sunglasses.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20sunglasses.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-suspicious",
+      "slug": "pepe-suspicious",
+      "name": "Pepe Suspicious",
+      "category": "pepe",
+      "aliases": [
+        "Suspicious"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-suspicious.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 10552,
+          "sha256": "72aae7fe0f7b4f1a2e15b624761356f000c021b970f9556fdf45cc9df297d2fb",
+          "sourcePath": "emojis/static/1 pepe/pepe suspicious.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20suspicious.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-suspicious-think-sus",
+      "slug": "pepe-suspicious-think-sus",
+      "name": "Pepe Suspicious Think SUS",
+      "category": "pepe",
+      "aliases": [
+        "Suspicious Think SUS"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-suspicious-think-sus.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8348,
+          "sha256": "ef94c73e16cc37e8a03bec9f9caa330d46968cd2a3e488c19729f0367c9f2e58",
+          "sourcePath": "emojis/static/1 pepe/pepe suspicious think sus.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20suspicious%20think%20sus.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-think",
+      "slug": "pepe-think",
+      "name": "Pepe Think",
+      "category": "pepe",
+      "aliases": [
+        "Think"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-think.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9463,
+          "sha256": "af1bd15af16a6ef3abd6fb7a4502e14615231fc477ff0f2b9ac802fe47eb474f",
+          "sourcePath": "emojis/static/1 pepe/pepe think.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20think.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-very-smug",
+      "slug": "pepe-very-smug",
+      "name": "Pepe Very Smug",
+      "category": "pepe",
+      "aliases": [
+        "Very Smug"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-very-smug.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8253,
+          "sha256": "f15341e0c3591d37d7943b0f6dba6787f188cac0afe6e85f4a6c2c73dd6411ac",
+          "sourcePath": "emojis/static/1 pepe/pepe very smug.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20very%20smug.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-weird",
+      "slug": "pepe-weird",
+      "name": "Pepe Weird",
+      "category": "pepe",
+      "aliases": [
+        "Weird"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-weird.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9606,
+          "sha256": "98e4802434fe6329fb36716ead261d5305dedf15a25efbd7ce85d507839e123e",
+          "sourcePath": "emojis/static/1 pepe/pepe weird.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20weird.png"
+        },
+        "gif": {
+          "src": "gif/pepe-weird.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 110413,
+          "sha256": "e3e3003d9c65f15dcb4ff1acddab755162e53f02ffe9b670e5893b151b9ebadf",
+          "sourcePath": "emojis/gif/1 pepe/pepe weird.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20weird.gif",
+          "frames": 49,
+          "poster": "posters/pepe-weird.webp",
+          "posterBytes": 1502,
+          "posterSha256": "179ce56954c248e9afc9908affd776eb2ca3f7998d6ef2a21c7fbbba396ba21a",
+          "posterFrame": 0,
+          "posterCoverage": 100
+        }
+      }
+    },
+    {
+      "id": "pepe-wink",
+      "slug": "pepe-wink",
+      "name": "Pepe Wink",
+      "category": "pepe",
+      "aliases": [
+        "Wink"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-wink.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 8479,
+          "sha256": "7570b64b604415866e5a359f35e2886beb53789b28fe6da167cc0f1e408ddc88",
+          "sourcePath": "emojis/static/1 pepe/pepe wink.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20wink.png"
+        }
+      }
+    },
+    {
+      "id": "pepe-wizz",
+      "slug": "pepe-wizz",
+      "name": "Pepe Wizz",
+      "category": "pepe",
+      "aliases": [
+        "Wizz"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-wizz.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 42946,
+          "sha256": "5f616fe2086ee6b3ce44bdc3355020707c392e9811c2ffa51447256ba31203e8",
+          "sourcePath": "emojis/gif/1 pepe/pepe wizz.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20wizz.gif",
+          "frames": 24,
+          "poster": "posters/pepe-wizz.webp",
+          "posterBytes": 956,
+          "posterSha256": "60ea0e90e78cc8d43bddc4689d8811e80fc68213e909c8837611f57b616ef5f1",
+          "posterFrame": 0,
+          "posterCoverage": 80
+        }
+      }
+    },
+    {
+      "id": "pepe-wobble",
+      "slug": "pepe-wobble",
+      "name": "Pepe Wobble",
+      "category": "pepe",
+      "aliases": [
+        "Wobble"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepe-wobble.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 24903,
+          "sha256": "3ebbc94bb201dbc8052a59bb17e2cb01b3362250c368218f654508b738697e38",
+          "sourcePath": "emojis/gif/1 pepe/pepe wobble.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/1%20pepe/pepe%20wobble.gif",
+          "frames": 15,
+          "poster": "posters/pepe-wobble.webp",
+          "posterBytes": 612,
+          "posterSha256": "3eb0ac7c9392b59390da14635b89117ebea7f2d5ed072229748b64b400e6422e",
+          "posterFrame": 0,
+          "posterCoverage": 44.1
+        }
+      }
+    },
+    {
+      "id": "pepe-wojak-hoodie",
+      "slug": "pepe-wojak-hoodie",
+      "name": "Pepe Wojak Hoodie",
+      "category": "pepe",
+      "aliases": [
+        "Wojak Hoodie"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepe-wojak-hoodie.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7872,
+          "sha256": "b3207edc03c02e1503afdb07db57d63ec87490efcae736b3b62af0d846051b4f",
+          "sourcePath": "emojis/static/1 pepe/pepe wojak hoodie.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/1%20pepe/pepe%20wojak%20hoodie.png"
+        }
+      }
+    },
+    {
+      "id": "pepega-pepega",
+      "slug": "pepega-pepega",
+      "name": "Pepega",
+      "category": "pepega",
+      "aliases": [
+        "Pepega Pepega"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepega-pepega.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7126,
+          "sha256": "ff7c22c9da0b20f9e975719c57d77f8e170ad37b9bec8a136c8d57fa18b81231",
+          "sourcePath": "emojis/static/4 pepega/pepega.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/4%20pepega/pepega.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-pepega",
+      "slug": "pepege-pepega",
+      "name": "Pepega",
+      "category": "pepege",
+      "aliases": [
+        "Pepege Pepega"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-pepega.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6889,
+          "sha256": "4219a6f56eb1db32a2255e20dc5659f824a631a2a30a0dcb6c07bef8ead04b40",
+          "sourcePath": "emojis/static/5 pepege/pepega.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-awake",
+      "slug": "pepege-awake",
+      "name": "Pepega Awake",
+      "category": "pepege",
+      "aliases": [
+        "Awake",
+        "Pepege Awake"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-awake.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 11215,
+          "sha256": "fbd9c876fe32407ac98f81183c0235cff98527dd44215db50d9c844adae416fe",
+          "sourcePath": "emojis/static/5 pepege/pepega awake.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20awake.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-bed",
+      "slug": "pepege-bed",
+      "name": "Pepega Bed",
+      "category": "pepege",
+      "aliases": [
+        "Bed",
+        "Pepege Bed"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-bed.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9813,
+          "sha256": "7be07c081a94d1978a55b65b6a8ddb3dfd3ac2a706ee6c0d8e86458c602ca65a",
+          "sourcePath": "emojis/static/5 pepege/pepega bed.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20bed.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-business-okay",
+      "slug": "pepege-business-okay",
+      "name": "Pepega Business Okay",
+      "category": "pepege",
+      "aliases": [
+        "Business Okay",
+        "Pepege Business Okay"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-business-okay.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6571,
+          "sha256": "95ba53aa04316b9445883a52a444d710ca08be59336bd655ebd84caadf503914",
+          "sourcePath": "emojis/static/5 pepege/pepega business okay.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20business%20okay.png"
+        }
+      }
+    },
+    {
+      "id": "pepega-credit",
+      "slug": "pepega-credit",
+      "name": "Pepega Credit",
+      "category": "pepega",
+      "aliases": [
+        "Credit"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepega-credit.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 51524,
+          "sha256": "fd432265645090591e3b27c078662802db4418d6d223af453e8685c3a1ffedc2",
+          "sourcePath": "emojis/gif/4 pepega/pepega credit.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/4%20pepega/pepega%20credit.gif",
+          "frames": 31,
+          "poster": "posters/pepega-credit.webp",
+          "posterBytes": 1730,
+          "posterSha256": "6220adf271f84970eee7836a63c95d792c3d21b9b37959c6a5d479790c032351",
+          "posterFrame": 0,
+          "posterCoverage": 76.6
+        }
+      }
+    },
+    {
+      "id": "pepege-cry-pray",
+      "slug": "pepege-cry-pray",
+      "name": "Pepega Cry Pray",
+      "category": "pepege",
+      "aliases": [
+        "Cry Pray",
+        "Pepege Cry Pray"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-cry-pray.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7996,
+          "sha256": "3d14579b3319dc9702c606ebbce22d10306e04e2fa067a030bf06630f64ec106",
+          "sourcePath": "emojis/static/5 pepege/pepega cry pray.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20cry%20pray.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-evil",
+      "slug": "pepege-evil",
+      "name": "Pepega Evil",
+      "category": "pepege",
+      "aliases": [
+        "Evil",
+        "Pepege Evil"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-evil.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7430,
+          "sha256": "1c92e5b4e6b06af6b3171c1ba7500f2bec41fe3aaec538a5cf5bff8200c7e32b",
+          "sourcePath": "emojis/static/5 pepege/pepega evil.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20evil.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-glad",
+      "slug": "pepege-glad",
+      "name": "Pepega Glad",
+      "category": "pepege",
+      "aliases": [
+        "Glad",
+        "Pepege Glad"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-glad.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6937,
+          "sha256": "f81ec408a725dc1b65ff587bddee19915440cdd6e19cedd50c9bbe0a17886189",
+          "sourcePath": "emojis/static/5 pepege/pepega glad.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20glad.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-grin",
+      "slug": "pepege-grin",
+      "name": "Pepega Grin",
+      "category": "pepege",
+      "aliases": [
+        "Grin",
+        "Pepege Grin"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-grin.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6794,
+          "sha256": "40dfbbf414df49aa49fc93234ce3d90033a0c21acfe0c2e2d28ff48320b392fe",
+          "sourcePath": "emojis/static/5 pepege/pepega grin.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20grin.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-hi",
+      "slug": "pepege-hi",
+      "name": "Pepega Hi",
+      "category": "pepege",
+      "aliases": [
+        "Hi",
+        "Pepege Hi"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-hi.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 9096,
+          "sha256": "30c21c76f069b992d617592acb750579ccd95d56fd18b3a8fe10de0caf05740e",
+          "sourcePath": "emojis/static/5 pepege/pepega hi.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20hi.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-huh",
+      "slug": "pepege-huh",
+      "name": "Pepega Huh",
+      "category": "pepege",
+      "aliases": [
+        "Huh",
+        "Pepege Huh"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-huh.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7487,
+          "sha256": "c30d3d83e42e59e5a57bfcddaa6bc0afbc0436e559be31326ecaca1ba8a92d3e",
+          "sourcePath": "emojis/static/5 pepege/pepega huh.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20huh.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-looking",
+      "slug": "pepege-looking",
+      "name": "Pepega Looking",
+      "category": "pepege",
+      "aliases": [
+        "Looking",
+        "Pepege Looking"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-looking.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6164,
+          "sha256": "22cce6aa3ced568c7a59967c9aa733e1b40d5c72c9585c17923e882985553880",
+          "sourcePath": "emojis/static/5 pepege/pepega looking.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20looking.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-mad-distort",
+      "slug": "pepege-mad-distort",
+      "name": "Pepega Mad Distort",
+      "category": "pepege",
+      "aliases": [
+        "Mad Distort",
+        "Pepege Mad Distort"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-mad-distort.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6968,
+          "sha256": "58d7a516584d3d1a38810c539586bad29ca600c4fd03ac077bb4b2d4c48fc0f4",
+          "sourcePath": "emojis/static/5 pepege/pepega mad distort.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20mad%20distort.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-nerd",
+      "slug": "pepege-nerd",
+      "name": "Pepega Nerd",
+      "category": "pepege",
+      "aliases": [
+        "Nerd",
+        "Pepege Nerd"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-nerd.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7464,
+          "sha256": "0b61406e121742a5a1c9cc025dc177d2c9ddeb67e2bfa7540cd5f4dded26dfca",
+          "sourcePath": "emojis/static/5 pepege/pepega nerd.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20nerd.png"
+        },
+        "gif": {
+          "src": "gif/pepege-nerd.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 37359,
+          "sha256": "76e2539ebcb7535e7279b345f5bbf849e433d9f8fca26b09cc0f8b5112808cdc",
+          "sourcePath": "emojis/gif/5 pepege/pepege nerd.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20nerd.gif",
+          "frames": 13,
+          "poster": "posters/pepege-nerd.webp",
+          "posterBytes": 1282,
+          "posterSha256": "89e750d9d158b6b55fca250c500ca67ce9b1d7639eafa629f8effdfbc518852e",
+          "posterFrame": 0,
+          "posterCoverage": 57.4
+        }
+      }
+    },
+    {
+      "id": "pepege-ok",
+      "slug": "pepege-ok",
+      "name": "Pepega Ok",
+      "category": "pepege",
+      "aliases": [
+        "Ok",
+        "Pepege Ok"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-ok.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7232,
+          "sha256": "27e98946ff2735536f4812d5df1861d8271d8c1b9c2243da0e63f6a3ab320aa7",
+          "sourcePath": "emojis/static/5 pepege/pepega ok.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20ok.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-old",
+      "slug": "pepege-old",
+      "name": "Pepega Old",
+      "category": "pepege",
+      "aliases": [
+        "Old",
+        "Pepege Old"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-old.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7858,
+          "sha256": "75e8dfca682e7e8697f7b53012f7920f96ad077173c18e2c68402ff9f0dde2ce",
+          "sourcePath": "emojis/static/5 pepege/pepega old.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20old.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-phone",
+      "slug": "pepege-phone",
+      "name": "Pepega Phone",
+      "category": "pepege",
+      "aliases": [
+        "Pepege Phone",
+        "Phone"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-phone.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 11322,
+          "sha256": "6fecb7220392ee69c6bfba65ebcdac80ca74141137455014f265822e074df2ca",
+          "sourcePath": "emojis/static/5 pepege/pepega phone.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20phone.png"
+        }
+      }
+    },
+    {
+      "id": "pepega-pls-dance",
+      "slug": "pepega-pls-dance",
+      "name": "Pepega Pls Dance",
+      "category": "pepega",
+      "aliases": [
+        "Pls Dance"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepega-pls-dance.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 22391,
+          "sha256": "fbca10e61722e46863def42c2465f228ed8747fbcd604b1e2bd94c7730072e15",
+          "sourcePath": "emojis/gif/4 pepega/pepega pls dance.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/4%20pepega/pepega%20pls%20dance.gif",
+          "frames": 10,
+          "poster": "posters/pepega-pls-dance.webp",
+          "posterBytes": 1180,
+          "posterSha256": "8602d58744ef9061e2cd490a76101da5bd8048c1586df041066b1a9e06afdcb7",
+          "posterFrame": 0,
+          "posterCoverage": 42.1
+        }
+      }
+    },
+    {
+      "id": "pepege-pray",
+      "slug": "pepege-pray",
+      "name": "Pepega Pray",
+      "category": "pepege",
+      "aliases": [
+        "Pepege Pray",
+        "Pray"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-pray.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6548,
+          "sha256": "0948a9b4b7e8af320489a5ca4e321b22ec3c4ca9720404120baacfee15cfecad",
+          "sourcePath": "emojis/static/5 pepege/pepega pray.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20pray.png"
+        },
+        "gif": {
+          "src": "gif/pepege-pray.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 132568,
+          "sha256": "76a0759b68c51b785f385977c34c888501ac66969a0fd299123c69ce0378228b",
+          "sourcePath": "emojis/gif/5 pepege/pepege pray.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20pray.gif",
+          "frames": 56,
+          "poster": "posters/pepege-pray.webp",
+          "posterBytes": 982,
+          "posterSha256": "4e78f31fe8a398b2af50cfad5c89ffedda2263766dc8217a20974ea5e13c0f14",
+          "posterFrame": 0,
+          "posterCoverage": 60.5
+        }
+      }
+    },
+    {
+      "id": "pepege-sad",
+      "slug": "pepege-sad",
+      "name": "Pepega Sad",
+      "category": "pepege",
+      "aliases": [
+        "Pepege Sad",
+        "Sad"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-sad.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7093,
+          "sha256": "fd83dd3b6e91a02a67a55acd4405ff56f8043e771bca2c46eaa1b083d6b5a73a",
+          "sourcePath": "emojis/static/5 pepege/pepega sad.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20sad.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-smirk",
+      "slug": "pepege-smirk",
+      "name": "Pepega Smirk",
+      "category": "pepege",
+      "aliases": [
+        "Pepege Smirk",
+        "Smirk"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-smirk.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7231,
+          "sha256": "b54a08e097da85dde5ef11f1606e4b1eab945e696436ae962f7403628c6bfed4",
+          "sourcePath": "emojis/static/5 pepege/pepega smirk.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20smirk.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-sus-hmm",
+      "slug": "pepege-sus-hmm",
+      "name": "Pepega SUS Hmm",
+      "category": "pepege",
+      "aliases": [
+        "Pepege SUS Hmm",
+        "SUS Hmm"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-sus-hmm.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 7554,
+          "sha256": "48ae2de58f3a7f6efae7e94acc9eeb53bc09f9b1bfb8e761dc0364f4286785f2",
+          "sourcePath": "emojis/static/5 pepege/pepega sus hmm.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20sus%20hmm.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-sus-squad",
+      "slug": "pepege-sus-squad",
+      "name": "Pepega SUS Squad",
+      "category": "pepege",
+      "aliases": [
+        "Pepege SUS Squad",
+        "SUS Squad"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-sus-squad.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 11637,
+          "sha256": "0e73594f016e4d3d361b4c224c5afb2723f35ca6f42858b5ee143dfb2c3e18f1",
+          "sourcePath": "emojis/static/5 pepege/pepega sus squad.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20sus%20squad.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-tears-of-joy",
+      "slug": "pepege-tears-of-joy",
+      "name": "Pepega Tears Of Joy",
+      "category": "pepege",
+      "aliases": [
+        "Pepege Tears Of Joy",
+        "Tears Of Joy"
+      ],
+      "variants": {
+        "static": {
+          "src": "static/pepege-tears-of-joy.png",
+          "width": 64,
+          "height": 64,
+          "bytes": 6951,
+          "sha256": "a77a74941c99937980f90f82eba0067427af2bbd559c3a6e8178002e47b71f1b",
+          "sourcePath": "emojis/static/5 pepege/pepega tears of joy.png",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/static/5%20pepege/pepega%20tears%20of%20joy.png"
+        }
+      }
+    },
+    {
+      "id": "pepege-announce",
+      "slug": "pepege-announce",
+      "name": "Pepege Announce",
+      "category": "pepege",
+      "aliases": [
+        "Announce"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-announce.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 127153,
+          "sha256": "111db1765d6eb019f6ff5c174ade3247a3fc2003e306898441c9fa71e8c84559",
+          "sourcePath": "emojis/gif/5 pepege/pepege announce.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20announce.gif",
+          "frames": 48,
+          "poster": "posters/pepege-announce.webp",
+          "posterBytes": 1212,
+          "posterSha256": "eaa9e4a0fe574f7d9a5a7fa81f35964786512bc0be0d2c8f11e2af8feb8f5489",
+          "posterFrame": 0,
+          "posterCoverage": 54
+        }
+      }
+    },
+    {
+      "id": "pepege-blush",
+      "slug": "pepege-blush",
+      "name": "Pepege Blush",
+      "category": "pepege",
+      "aliases": [
+        "Blush"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-blush.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 5921,
+          "sha256": "d5d86da2a19d4a6786c4eef4c664806fa6af15a45731441018bc6bc566de82ed",
+          "sourcePath": "emojis/gif/5 pepege/pepege blush.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20blush.gif",
+          "frames": 2,
+          "poster": "posters/pepege-blush.webp",
+          "posterBytes": 1308,
+          "posterSha256": "d6c52abe7d32717fc9ca7f4a07f8447b16d1b18e59ab96738317dd92a41c0409",
+          "posterFrame": 0,
+          "posterCoverage": 58.2
+        }
+      }
+    },
+    {
+      "id": "pepege-cheer",
+      "slug": "pepege-cheer",
+      "name": "Pepege Cheer",
+      "category": "pepege",
+      "aliases": [
+        "Cheer"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-cheer.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 81674,
+          "sha256": "03c03f57b07f2fff90aaa32cf19280e550746dd8124c2bbb6d1eaa00f5c62078",
+          "sourcePath": "emojis/gif/5 pepege/pepege cheer.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20cheer.gif",
+          "frames": 28,
+          "poster": "posters/pepege-cheer.webp",
+          "posterBytes": 1498,
+          "posterSha256": "79583c6231580a6bb09ce4519d66fed1e8f625314acac4887bc7dd033e23e2b0",
+          "posterFrame": 0,
+          "posterCoverage": 56.1
+        }
+      }
+    },
+    {
+      "id": "pepege-gamab",
+      "slug": "pepege-gamab",
+      "name": "Pepege Gamab",
+      "category": "pepege",
+      "aliases": [
+        "Gamab"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-gamab.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 25231,
+          "sha256": "2443cd1fe0313a62190fdc89cac2220921bbb3a2dd14c03c31b882c10b638ccc",
+          "sourcePath": "emojis/gif/5 pepege/pepege gamab.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20gamab.gif",
+          "frames": 10,
+          "poster": "posters/pepege-gamab.webp",
+          "posterBytes": 1260,
+          "posterSha256": "075cdd2e9ad6339b40a7c1fd37ea008279f96333e97412bed9ddd67d6e205016",
+          "posterFrame": 0,
+          "posterCoverage": 56
+        }
+      }
+    },
+    {
+      "id": "pepege-kek",
+      "slug": "pepege-kek",
+      "name": "Pepege KEK",
+      "category": "pepege",
+      "aliases": [
+        "KEK"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-kek.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 4581,
+          "sha256": "84c9de1dbfab0bffa2d322a1a3ca58d83b268979167d479103c39b621fa499a5",
+          "sourcePath": "emojis/gif/5 pepege/pepege kek.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20kek.gif",
+          "frames": 2,
+          "poster": "posters/pepege-kek.webp",
+          "posterBytes": 1122,
+          "posterSha256": "cffaf902af16185b0035100a976881d6a169accbd0812f3b3691135af4814dfd",
+          "posterFrame": 0,
+          "posterCoverage": 55.1
+        }
+      }
+    },
+    {
+      "id": "pepege-lick",
+      "slug": "pepege-lick",
+      "name": "Pepege Lick",
+      "category": "pepege",
+      "aliases": [
+        "Lick"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-lick.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 276406,
+          "sha256": "c8068d40ba7acdf77b52d5f43a027d9c616938579bce9ce5c7dc947fed2c7712",
+          "sourcePath": "emojis/gif/5 pepege/pepege lick.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20lick.gif",
+          "frames": 120,
+          "poster": "posters/pepege-lick.webp",
+          "posterBytes": 1086,
+          "posterSha256": "fabbc56a74d33746fea0a838335e463138bad52f363ede18dd1c763b6b932b3c",
+          "posterFrame": 0,
+          "posterCoverage": 55.3
+        }
+      }
+    },
+    {
+      "id": "pepege-mad-time",
+      "slug": "pepege-mad-time",
+      "name": "Pepege Mad Time",
+      "category": "pepege",
+      "aliases": [
+        "Mad Time"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-mad-time.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 6414,
+          "sha256": "a37220f133f4e657621e2c0e8cd52c843b555489965ce4f3205f3869d0298b3d",
+          "sourcePath": "emojis/gif/5 pepege/pepege mad time.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20mad%20time.gif",
+          "frames": 2,
+          "poster": "posters/pepege-mad-time.webp",
+          "posterBytes": 1402,
+          "posterSha256": "db7329541647f7a0d4cd0eabf546fb90f2b6d20be4b46fc1c089c6c81cdf688a",
+          "posterFrame": 0,
+          "posterCoverage": 64.6
+        }
+      }
+    },
+    {
+      "id": "pepege-music-cry",
+      "slug": "pepege-music-cry",
+      "name": "Pepege Music Cry",
+      "category": "pepege",
+      "aliases": [
+        "Music Cry"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-music-cry.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 45235,
+          "sha256": "50734d1cf447d3b5cb4e604d76948816281e9ed7498facff7b36e73a7f977eab",
+          "sourcePath": "emojis/gif/5 pepege/pepege music cry.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20music%20cry.gif",
+          "frames": 17,
+          "poster": "posters/pepege-music-cry.webp",
+          "posterBytes": 1172,
+          "posterSha256": "c7ddabfe0ac21d86ae4bed3839bcfd315cd1c082efb163913a9766c56c53bebf",
+          "posterFrame": 0,
+          "posterCoverage": 59.1
+        }
+      }
+    },
+    {
+      "id": "pepege-pain",
+      "slug": "pepege-pain",
+      "name": "Pepege Pain",
+      "category": "pepege",
+      "aliases": [
+        "Pain"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-pain.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 83596,
+          "sha256": "5887129058b70a56763314cb03dcee03ade778c615e78447ca9c65e35e53dd8c",
+          "sourcePath": "emojis/gif/5 pepege/pepege pain.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20pain.gif",
+          "frames": 34,
+          "poster": "posters/pepege-pain.webp",
+          "posterBytes": 1238,
+          "posterSha256": "c691fe541aae0777e283ba000bee6e51a1241bde6fa677b3eb4407ef5d64764e",
+          "posterFrame": 0,
+          "posterCoverage": 55
+        }
+      }
+    },
+    {
+      "id": "pepege-sad-rain",
+      "slug": "pepege-sad-rain",
+      "name": "Pepege Sad Rain",
+      "category": "pepege",
+      "aliases": [
+        "Sad Rain"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-sad-rain.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 46001,
+          "sha256": "036d4882634d886e41be91cb9a95c9dc8567250e3b90f975715bf6c806bede81",
+          "sourcePath": "emojis/gif/5 pepege/pepege sad rain.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20sad%20rain.gif",
+          "frames": 15,
+          "poster": "posters/pepege-sad-rain.webp",
+          "posterBytes": 2002,
+          "posterSha256": "d95e04410cddd722e6f93ffae8fad6f9fe7f6739c966ff6539c3103c3c350f96",
+          "posterFrame": 0,
+          "posterCoverage": 65.2
+        }
+      }
+    },
+    {
+      "id": "pepege-sad-sip",
+      "slug": "pepege-sad-sip",
+      "name": "Pepege Sad Sip",
+      "category": "pepege",
+      "aliases": [
+        "Sad Sip"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-sad-sip.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 64389,
+          "sha256": "0f1ae4d13cb729344db6ab7313de19e4e64b7312fa65f9a23dede47e9d0c2f82",
+          "sourcePath": "emojis/gif/5 pepege/pepege sad sip.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20sad%20sip.gif",
+          "frames": 20,
+          "poster": "posters/pepege-sad-sip.webp",
+          "posterBytes": 1566,
+          "posterSha256": "02e123636a9a1d395beadca9ee306291bd559424134c2b5775b0ccb57ee14717",
+          "posterFrame": 0,
+          "posterCoverage": 71.5
+        }
+      }
+    },
+    {
+      "id": "pepege-sad-smoke",
+      "slug": "pepege-sad-smoke",
+      "name": "Pepege Sad Smoke",
+      "category": "pepege",
+      "aliases": [
+        "Sad Smoke"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-sad-smoke.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 103046,
+          "sha256": "bfd0748df820ba20bde9dc1dc3a3fc9323f0369da3e3cecd5bc7bdad3540e0ad",
+          "sourcePath": "emojis/gif/5 pepege/pepege sad smoke.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20sad%20smoke.gif",
+          "frames": 44,
+          "poster": "posters/pepege-sad-smoke.webp",
+          "posterBytes": 1038,
+          "posterSha256": "c5b1c9b777e4b1a8062187c3e12d42be4a30a1fba03eeb01e75390e72438211f",
+          "posterFrame": 0,
+          "posterCoverage": 44.2
+        }
+      }
+    },
+    {
+      "id": "pepege-sad-thinking",
+      "slug": "pepege-sad-thinking",
+      "name": "Pepege Sad Thinking",
+      "category": "pepege",
+      "aliases": [
+        "Sad Thinking"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-sad-thinking.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 205645,
+          "sha256": "af579128e191efc1edf5ce4302a99cc5d26e3f091639060d45d03270518a00a0",
+          "sourcePath": "emojis/gif/5 pepege/pepege sad thinking.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20sad%20thinking.gif",
+          "frames": 81,
+          "poster": "posters/pepege-sad-thinking.webp",
+          "posterBytes": 1174,
+          "posterSha256": "cb76e5d3e84859e3172dff3618220f1374fbb46b6433febdb08f86a39b88b316",
+          "posterFrame": 0,
+          "posterCoverage": 53.6
+        }
+      }
+    },
+    {
+      "id": "pepege-stop-being-mean",
+      "slug": "pepege-stop-being-mean",
+      "name": "Pepege Stop Being Mean",
+      "category": "pepege",
+      "aliases": [
+        "Stop Being Mean"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-stop-being-mean.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 55146,
+          "sha256": "594d0fbc7c5aea1da000df763b4f66e1a4b866275b53d3ae3dc65e3f3d2a9b49",
+          "sourcePath": "emojis/gif/5 pepege/pepege stop being mean.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20stop%20being%20mean.gif",
+          "frames": 25,
+          "poster": "posters/pepege-stop-being-mean.webp",
+          "posterBytes": 644,
+          "posterSha256": "2a938c55a54b59f79f59d1512209757f0fbb0d8802f5cd8bc77b3d00ffe2f8ac",
+          "posterFrame": 0,
+          "posterCoverage": 28.7
+        }
+      }
+    },
+    {
+      "id": "pepege-sus-clap",
+      "slug": "pepege-sus-clap",
+      "name": "Pepege SUS Clap",
+      "category": "pepege",
+      "aliases": [
+        "SUS Clap"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-sus-clap.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 11297,
+          "sha256": "68ccd9a1aae8e0eae6ea6bd7a153ee8b54eb9163d1c895e1e5a4ca10503df1a6",
+          "sourcePath": "emojis/gif/5 pepege/pepege sus clap.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20sus%20clap.gif",
+          "frames": 4,
+          "poster": "posters/pepege-sus-clap.webp",
+          "posterBytes": 1114,
+          "posterSha256": "c3b3bddeda37aecd40437dc3491d7da1f4846bde6d59af626a235eecef4804f7",
+          "posterFrame": 0,
+          "posterCoverage": 60.6
+        }
+      }
+    },
+    {
+      "id": "pepege-very-mad",
+      "slug": "pepege-very-mad",
+      "name": "Pepege Very Mad",
+      "category": "pepege",
+      "aliases": [
+        "Very Mad"
+      ],
+      "variants": {
+        "gif": {
+          "src": "gif/pepege-very-mad.gif",
+          "width": 64,
+          "height": 64,
+          "bytes": 21782,
+          "sha256": "de288f816fdf2b7e81e344a4c56de84c1c1079d47452264a825c691f8fc51740",
+          "sourcePath": "emojis/gif/5 pepege/pepege very mad.gif",
+          "sourceUrl": "https://github.com/pepecoinppc/pepe_emojis_for_reddit/blob/f59ebdbc5706fd80c82d6cf5f069405d45f231c8/emojis/gif/5%20pepege/pepege%20very%20mad.gif",
+          "frames": 9,
+          "poster": "posters/pepege-very-mad.webp",
+          "posterBytes": 1136,
+          "posterSha256": "0f48c29c585bb2a45ccec56ea40b7ae463b4993f1692e6130da5a48e75b070e6",
+          "posterFrame": 0,
+          "posterCoverage": 54.6
+        }
+      }
+    }
+  ]
+}

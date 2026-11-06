@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T02:56:22.827Z",
+  "collections": [
+    {
+      "id": "pepe",
+      "name": "Pepe",
+      "path": "data/pepe/collection.json",
+      "schemaVersion": 1,
+      "stats": {
+        "total": 202,
+        "static": 120,
+        "gif": 96,
+        "both": 14,
+        "files": 216
+      },
+      "source": {
+        "name": "Pepe Emojis for Reddit",
+        "repo": "https://github.com/pepecoinppc/pepe_emojis_for_reddit",
+        "commit": "f59ebdbc5706fd80c82d6cf5f069405d45f231c8"
+      }
+    }
+  ]
+}
